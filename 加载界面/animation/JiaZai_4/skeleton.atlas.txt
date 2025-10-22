@@ -1,0 +1,273 @@
+
+skeleton.png
+size: 1744,1623
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PiaoLuo_DONG_10
+  rotate: true
+  xy: 2, 2
+  size: 812, 1727
+  orig: 884, 1920
+  offset: 0, 117
+  index: -1
+PiaoLuo_DONG_11
+  rotate: true
+  xy: 2, 816
+  size: 805, 1740
+  orig: 884, 1920
+  offset: 0, 91
+  index: -1
+
+skeleton2.png
+size: 1758,1639
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PiaoLuo_DONG_12
+  rotate: true
+  xy: 2, 824
+  size: 813, 1754
+  orig: 884, 1920
+  offset: 0, 65
+  index: -1
+PiaoLuo_DONG_9
+  rotate: true
+  xy: 2, 2
+  size: 820, 1713
+  orig: 884, 1920
+  offset: 0, 143
+  index: -1
+
+skeleton3.png
+size: 1773,1656
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PiaoLuo_DONG_13
+  rotate: true
+  xy: 2, 832
+  size: 822, 1769
+  orig: 884, 1920
+  offset: 0, 39
+  index: -1
+PiaoLuo_DONG_8
+  rotate: true
+  xy: 2, 2
+  size: 828, 1700
+  orig: 884, 1920
+  offset: 0, 169
+  index: -1
+
+skeleton4.png
+size: 1786,1673
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PiaoLuo_DONG_14
+  rotate: true
+  xy: 2, 840
+  size: 831, 1782
+  orig: 884, 1920
+  offset: 0, 13
+  index: -1
+PiaoLuo_DONG_7
+  rotate: true
+  xy: 2, 2
+  size: 836, 1686
+  orig: 884, 1920
+  offset: 0, 195
+  index: -1
+
+skeleton5.png
+size: 1787,1689
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PiaoLuo_DONG_15
+  rotate: true
+  xy: 2, 847
+  size: 840, 1783
+  orig: 884, 1920
+  offset: 0, 0
+  index: -1
+PiaoLuo_DONG_6
+  rotate: true
+  xy: 2, 2
+  size: 843, 1671
+  orig: 884, 1920
+  offset: 0, 221
+  index: -1
+
+skeleton6.png
+size: 1774,1705
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PiaoLuo_DONG_16
+  rotate: true
+  xy: 2, 854
+  size: 849, 1770
+  orig: 884, 1920
+  offset: 0, 0
+  index: -1
+PiaoLuo_DONG_5
+  rotate: true
+  xy: 2, 2
+  size: 850, 1663
+  orig: 884, 1920
+  offset: 0, 241
+  index: -1
+
+skeleton7.png
+size: 1762,1721
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PiaoLuo_DONG_17
+  rotate: true
+  xy: 2, 862
+  size: 857, 1758
+  orig: 884, 1920
+  offset: 0, 0
+  index: -1
+PiaoLuo_DONG_4
+  rotate: true
+  xy: 2, 2
+  size: 858, 1657
+  orig: 884, 1920
+  offset: 0, 259
+  index: -1
+
+skeleton8.png
+size: 1737,1747
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PiaoLuo_DONG_18
+  rotate: true
+  xy: 2, 879
+  size: 866, 1731
+  orig: 884, 1920
+  offset: 0, 15
+  index: -1
+PiaoLuo_DONG_19
+  rotate: true
+  xy: 2, 2
+  size: 875, 1733
+  orig: 884, 1920
+  offset: 0, 0
+  index: -1
+
+skeleton9.png
+size: 1774,1924
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PiaoLuo_DONG_0
+  rotate: false
+  xy: 2, 2
+  size: 884, 1920
+  orig: 884, 1920
+  offset: 0, 0
+  index: -1
+PiaoLuo_DONG_1
+  rotate: false
+  xy: 888, 2
+  size: 884, 1920
+  orig: 884, 1920
+  offset: 0, 0
+  index: -1
+
+skeleton10.png
+size: 1774,1924
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PiaoLuo_DONG_2
+  rotate: false
+  xy: 2, 2
+  size: 884, 1920
+  orig: 884, 1920
+  offset: 0, 0
+  index: -1
+PiaoLuo_DONG_3
+  rotate: false
+  xy: 888, 2
+  size: 884, 1920
+  orig: 884, 1920
+  offset: 0, 0
+  index: -1
+
+skeleton11.png
+size: 1774,1724
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PiaoLuo_DONG_20
+  rotate: false
+  xy: 2, 2
+  size: 884, 1720
+  orig: 884, 1920
+  offset: 0, 0
+  index: -1
+PiaoLuo_DONG_21
+  rotate: false
+  xy: 888, 13
+  size: 884, 1709
+  orig: 884, 1920
+  offset: 0, 0
+  index: -1
+
+skeleton12.png
+size: 1774,1700
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PiaoLuo_DONG_22
+  rotate: false
+  xy: 2, 2
+  size: 884, 1696
+  orig: 884, 1920
+  offset: 0, 0
+  index: -1
+PiaoLuo_DONG_23
+  rotate: false
+  xy: 888, 14
+  size: 884, 1684
+  orig: 884, 1920
+  offset: 0, 0
+  index: -1
+
+skeleton13.png
+size: 1235,1774
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PiaoLuo_DONG_24
+  rotate: true
+  xy: 2, 888
+  size: 884, 1219
+  orig: 884, 1920
+  offset: 0, 452
+  index: -1
+PiaoLuo_DONG_25
+  rotate: true
+  xy: 2, 2
+  size: 884, 1231
+  orig: 884, 1920
+  offset: 0, 427
+  index: -1
+
+skeleton14.png
+size: 888,1244
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PiaoLuo_DONG_26
+  rotate: false
+  xy: 2, 2
+  size: 884, 1240
+  orig: 884, 1920
+  offset: 0, 404
+  index: -1
