@@ -1,0 +1,20 @@
+
+ChuanSongGui_02.png
+size: 524,467
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GuoDuGui_02_1
+  rotate: false
+  xy: 2, 2
+  size: 259, 463
+  orig: 259, 463
+  offset: 0, 0
+  index: -1
+GuoDuGui_02_2
+  rotate: false
+  xy: 263, 2
+  size: 259, 463
+  orig: 259, 463
+  offset: 0, 0
+  index: -1
