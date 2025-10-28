@@ -1,312 +1,409 @@
 
 skeleton.png
-size: 2034,2015
+size: 1782,1760
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-YanWu_1
-  rotate: true
-  xy: 2, 2001
-  size: 12, 13
-  orig: 1920, 1080
-  offset: 936, 110
-  index: -1
-YanWu_10
-  rotate: true
-  xy: 1287, 1849
-  size: 164, 287
-  orig: 1920, 1080
-  offset: 865, 67
-  index: -1
-YanWu_11
-  rotate: true
-  xy: 1576, 1833
-  size: 180, 334
-  orig: 1920, 1080
-  offset: 858, 44
-  index: -1
-YanWu_12
-  rotate: true
-  xy: 2, 1743
-  size: 195, 343
-  orig: 1920, 1080
-  offset: 852, 60
-  index: -1
-YanWu_13
-  rotate: true
-  xy: 347, 1688
-  size: 210, 351
-  orig: 1920, 1080
-  offset: 845, 76
-  index: -1
-YanWu_14
-  rotate: true
-  xy: 700, 1638
-  size: 225, 377
-  orig: 1920, 1080
-  offset: 838, 74
-  index: -1
-YanWu_15
-  rotate: true
-  xy: 1079, 1609
-  size: 238, 430
-  orig: 1920, 1080
-  offset: 832, 44
-  index: -1
-YanWu_16
-  rotate: true
-  xy: 1511, 1580
-  size: 251, 471
-  orig: 1920, 1080
-  offset: 826, 26
-  index: -1
-YanWu_17
-  rotate: true
-  xy: 2, 1423
-  size: 263, 478
-  orig: 1920, 1080
-  offset: 820, 42
-  index: -1
-YanWu_18
-  rotate: true
-  xy: 482, 1362
-  size: 274, 532
-  orig: 1920, 1080
-  offset: 816, 11
-  index: -1
-YanWu_19
-  rotate: true
-  xy: 1016, 1294
-  size: 284, 538
-  orig: 1920, 1080
-  offset: 811, 27
-  index: -1
-YanWu_2
-  rotate: true
-  xy: 17, 1990
-  size: 23, 42
-  orig: 1920, 1080
-  offset: 927, 108
-  index: -1
-YanWu_20
-  rotate: true
-  xy: 2, 1072
-  size: 288, 582
-  orig: 1920, 1080
-  offset: 809, 5
-  index: -1
 YanWu_21
   rotate: true
-  xy: 586, 1000
-  size: 292, 582
-  orig: 1920, 1080
-  offset: 807, 26
+  xy: 980, 804
+  size: 954, 800
+  orig: 1800, 1000
+  offset: 428, 100
   index: -1
 YanWu_22
+  rotate: true
+  xy: 2, 5
+  size: 951, 800
+  orig: 1800, 1000
+  offset: 411, 100
+  index: -1
+YanWu_44
   rotate: false
-  xy: 1556, 995
-  size: 298, 583
-  orig: 1920, 1080
-  offset: 803, 47
+  xy: 804, 2
+  size: 943, 800
+  orig: 1800, 1000
+  offset: 452, 100
   index: -1
-YanWu_23
-  rotate: true
-  xy: 2, 695
-  size: 303, 635
-  orig: 1920, 1080
-  offset: 800, 16
-  index: -1
-YanWu_24
-  rotate: true
-  xy: 639, 689
-  size: 309, 635
-  orig: 1920, 1080
-  offset: 796, 38
-  index: -1
-YanWu_25
-  rotate: true
-  xy: 1276, 679
-  size: 314, 658
-  orig: 1920, 1080
-  offset: 793, 36
-  index: -1
-YanWu_26
-  rotate: true
-  xy: 2, 367
-  size: 320, 659
-  orig: 1920, 1080
-  offset: 789, 57
-  index: -1
-YanWu_27
-  rotate: true
-  xy: 663, 352
-  size: 325, 683
-  orig: 1920, 1080
-  offset: 786, 54
-  index: -1
-YanWu_28
-  rotate: true
-  xy: 1348, 346
-  size: 331, 684
-  orig: 1920, 1080
-  offset: 782, 75
-  index: -1
-YanWu_29
-  rotate: true
-  xy: 2, 14
-  size: 336, 726
-  orig: 1920, 1080
-  offset: 779, 55
-  index: -1
-YanWu_3
-  rotate: true
-  xy: 61, 1970
-  size: 43, 90
-  orig: 1920, 1080
-  offset: 918, 86
-  index: -1
-YanWu_30
-  rotate: true
-  xy: 730, 2
-  size: 342, 726
-  orig: 1920, 1080
-  offset: 775, 76
-  index: -1
-YanWu_4
-  rotate: true
-  xy: 153, 1956
-  size: 57, 103
-  orig: 1920, 1080
-  offset: 910, 99
-  index: -1
-YanWu_5
-  rotate: true
-  xy: 258, 1940
-  size: 73, 142
-  orig: 1920, 1080
-  offset: 902, 86
-  index: -1
-YanWu_6
-  rotate: true
-  xy: 402, 1919
-  size: 94, 185
-  orig: 1920, 1080
-  offset: 894, 69
-  index: -1
-YanWu_7
-  rotate: true
-  xy: 589, 1900
-  size: 113, 210
-  orig: 1920, 1080
-  offset: 886, 69
-  index: -1
-YanWu_8
-  rotate: true
-  xy: 801, 1882
-  size: 131, 236
-  orig: 1920, 1080
-  offset: 878, 68
-  index: -1
-YanWu_9
-  rotate: true
-  xy: 1039, 1865
-  size: 148, 246
-  orig: 1920, 1080
-  offset: 871, 84
+YanWu_45
+  rotate: false
+  xy: 2, 958
+  size: 976, 800
+  orig: 1800, 1000
+  offset: 430, 100
   index: -1
 
 skeleton2.png
-size: 1750,1786
+size: 1757,2001
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-YanWu_33
+YanWu_01
   rotate: false
-  xy: 1390, 1014
-  size: 358, 770
-  orig: 1920, 1080
-  offset: 764, 97
+  xy: 804, 2
+  size: 390, 342
+  orig: 1800, 1000
+  offset: 668, 348
   index: -1
-YanWu_36
+YanWu_20
   rotate: false
-  xy: 1365, 91
-  size: 375, 901
-  orig: 1920, 1080
-  offset: 753, 30
+  xy: 2, 1223
+  size: 951, 776
+  orig: 1800, 1000
+  offset: 438, 124
   index: -1
-YanWu_37
-  rotate: true
-  xy: 2, 2
-  size: 380, 953
-  orig: 1920, 1080
-  offset: 750, 0
-  index: -1
-YanWu_38
+YanWu_23
   rotate: false
-  xy: 977, 33
-  size: 386, 959
-  orig: 1920, 1080
-  offset: 746, 16
+  xy: 804, 346
+  size: 949, 752
+  orig: 1800, 1000
+  offset: 395, 148
   index: -1
 YanWu_39
   rotate: true
-  xy: 415, 994
-  size: 391, 973
-  orig: 1920, 1080
-  offset: 743, 23
+  xy: 2, 330
+  size: 891, 800
+  orig: 1800, 1000
+  offset: 378, 100
   index: -1
-YanWu_40
+YanWu_43
   rotate: true
-  xy: 415, 1387
-  size: 397, 973
-  orig: 1920, 1080
-  offset: 739, 45
-  index: -1
-YanWu_41
-  rotate: true
-  xy: 2, 384
-  size: 403, 973
-  orig: 1920, 1080
-  offset: 736, 67
-  index: -1
-YanWu_42
-  rotate: false
-  xy: 2, 789
-  size: 411, 995
-  orig: 1920, 1080
-  offset: 732, 66
+  xy: 955, 1100
+  size: 899, 800
+  orig: 1800, 1000
+  offset: 475, 100
   index: -1
 
 skeleton3.png
-size: 1608,748
+size: 1906,1720
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-YanWu_31
+YanWu_02
+  rotate: true
+  xy: 1509, 534
+  size: 419, 395
+  orig: 1800, 1000
+  offset: 663, 304
+  index: -1
+YanWu_17
   rotate: false
-  xy: 1259, 2
-  size: 347, 744
-  orig: 1920, 1080
-  offset: 772, 80
+  xy: 930, 955
+  size: 909, 763
+  orig: 1800, 1000
+  offset: 470, 100
+  index: -1
+YanWu_18
+  rotate: false
+  xy: 2, 944
+  size: 926, 774
+  orig: 1800, 1000
+  offset: 457, 108
+  index: -1
+YanWu_19
+  rotate: true
+  xy: 2, 2
+  size: 940, 746
+  orig: 1800, 1000
+  offset: 446, 154
+  index: -1
+YanWu_25
+  rotate: true
+  xy: 750, 41
+  size: 901, 757
+  orig: 1800, 1000
+  offset: 382, 143
+  index: -1
+
+skeleton4.png
+size: 1777,1580
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+YanWu_24
+  rotate: false
+  xy: 853, 49
+  size: 899, 739
+  orig: 1800, 1000
+  offset: 381, 161
+  index: -1
+YanWu_26
+  rotate: false
+  xy: 2, 804
+  size: 895, 774
+  orig: 1800, 1000
+  offset: 386, 126
+  index: -1
+YanWu_27
+  rotate: false
+  xy: 899, 790
+  size: 876, 788
+  orig: 1800, 1000
+  offset: 400, 112
+  index: -1
+YanWu_42
+  rotate: false
+  xy: 2, 2
+  size: 849, 800
+  orig: 1800, 1000
+  offset: 500, 100
+  index: -1
+
+skeleton5.png
+size: 1707,1521
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+YanWu_38
+  rotate: true
+  xy: 2, 2
+  size: 842, 786
+  orig: 1800, 1000
+  offset: 400, 100
+  index: -1
+YanWu_41
+  rotate: true
+  xy: 905, 712
+  size: 807, 800
+  orig: 1800, 1000
+  offset: 516, 100
+  index: -1
+YanWu_48
+  rotate: false
+  xy: 790, 17
+  size: 891, 693
+  orig: 1800, 1000
+  offset: 504, 100
+  index: -1
+YanWu_49
+  rotate: false
+  xy: 2, 846
+  size: 901, 673
+  orig: 1800, 1000
+  offset: 493, 112
+  index: -1
+
+skeleton6.png
+size: 1666,1549
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+YanWu_16
+  rotate: false
+  xy: 2, 804
+  size: 883, 743
+  orig: 1800, 1000
+  offset: 487, 100
+  index: -1
+YanWu_30
+  rotate: false
+  xy: 887, 747
+  size: 777, 800
+  orig: 1800, 1000
+  offset: 525, 100
+  index: -1
+YanWu_40
+  rotate: false
+  xy: 2, 2
+  size: 775, 800
+  orig: 1800, 1000
+  offset: 521, 100
+  index: -1
+YanWu_46
+  rotate: false
+  xy: 779, 34
+  size: 876, 711
+  orig: 1800, 1000
+  offset: 532, 100
+  index: -1
+
+skeleton7.png
+size: 1628,1535
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+YanWu_15
+  rotate: false
+  xy: 747, 40
+  size: 857, 700
+  orig: 1800, 1000
+  offset: 501, 126
+  index: -1
+YanWu_31
+  rotate: true
+  xy: 2, 2
+  size: 821, 743
+  orig: 1800, 1000
+  offset: 497, 117
   index: -1
 YanWu_32
   rotate: false
-  xy: 905, 3
-  size: 352, 743
-  orig: 1920, 1080
-  offset: 768, 102
+  xy: 2, 825
+  size: 863, 708
+  orig: 1800, 1000
+  offset: 469, 146
   index: -1
-YanWu_34
+YanWu_37
   rotate: true
-  xy: 2, 12
-  size: 363, 840
-  orig: 1920, 1080
-  offset: 761, 48
+  xy: 867, 742
+  size: 791, 759
+  orig: 1800, 1000
+  offset: 424, 103
+  index: -1
+
+skeleton8.png
+size: 1590,1992
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+YanWu_03
+  rotate: true
+  xy: 2, 2
+  size: 550, 596
+  orig: 1800, 1000
+  offset: 642, 173
+  index: -1
+YanWu_11
+  rotate: true
+  xy: 2, 554
+  size: 743, 725
+  orig: 1800, 1000
+  offset: 531, 100
+  index: -1
+YanWu_29
+  rotate: false
+  xy: 857, 1190
+  size: 731, 800
+  orig: 1800, 1000
+  offset: 552, 100
   index: -1
 YanWu_35
+  rotate: false
+  xy: 2, 1299
+  size: 853, 691
+  orig: 1800, 1000
+  offset: 474, 136
+  index: -1
+YanWu_47
+  rotate: false
+  xy: 729, 484
+  size: 852, 704
+  orig: 1800, 1000
+  offset: 517, 100
+  index: -1
+
+skeleton9.png
+size: 1568,1473
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+YanWu_12
   rotate: true
-  xy: 2, 377
-  size: 369, 901
-  orig: 1920, 1080
-  offset: 757, 9
+  xy: 2, 2
+  size: 769, 720
+  orig: 1800, 1000
+  offset: 524, 100
+  index: -1
+YanWu_33
+  rotate: false
+  xy: 724, 23
+  size: 829, 705
+  orig: 1800, 1000
+  offset: 512, 140
+  index: -1
+YanWu_34
+  rotate: false
+  xy: 2, 773
+  size: 837, 698
+  orig: 1800, 1000
+  offset: 500, 137
+  index: -1
+YanWu_36
+  rotate: true
+  xy: 841, 730
+  size: 741, 725
+  orig: 1800, 1000
+  offset: 448, 118
+  index: -1
+
+skeleton10.png
+size: 2044,1498
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+YanWu_07
+  rotate: false
+  xy: 1413, 158
+  size: 629, 654
+  orig: 1800, 1000
+  offset: 596, 120
+  index: -1
+YanWu_10
+  rotate: false
+  xy: 692, 74
+  size: 719, 728
+  orig: 1800, 1000
+  offset: 544, 100
+  index: -1
+YanWu_13
+  rotate: false
+  xy: 829, 814
+  size: 799, 682
+  orig: 1800, 1000
+  offset: 520, 110
+  index: -1
+YanWu_14
+  rotate: false
+  xy: 2, 804
+  size: 825, 692
+  orig: 1800, 1000
+  offset: 516, 117
+  index: -1
+YanWu_28
+  rotate: false
+  xy: 2, 2
+  size: 688, 800
+  orig: 1800, 1000
+  offset: 577, 100
+  index: -1
+
+skeleton11.png
+size: 2002,1387
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+YanWu_04
+  rotate: true
+  xy: 2, 2
+  size: 657, 703
+  orig: 1800, 1000
+  offset: 578, 113
+  index: -1
+YanWu_05
+  rotate: false
+  xy: 670, 664
+  size: 660, 721
+  orig: 1800, 1000
+  offset: 568, 100
+  index: -1
+YanWu_06
+  rotate: false
+  xy: 2, 661
+  size: 666, 724
+  orig: 1800, 1000
+  offset: 560, 100
+  index: -1
+YanWu_08
+  rotate: true
+  xy: 707, 2
+  size: 660, 663
+  orig: 1800, 1000
+  offset: 578, 112
+  index: -1
+YanWu_09
+  rotate: true
+  xy: 1332, 696
+  size: 689, 668
+  orig: 1800, 1000
+  offset: 561, 108
   index: -1
