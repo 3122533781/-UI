@@ -1,409 +1,283 @@
 
 skeleton.png
-size: 1782,1760
+size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-YanWu_21
+DaoDanGui_02
   rotate: true
-  xy: 980, 804
-  size: 954, 800
-  orig: 1800, 1000
-  offset: 428, 100
+  xy: 2, 1879
+  size: 152, 726
+  orig: 1320, 2868
+  offset: 572, 1073
   index: -1
-YanWu_22
+DaoDanGui_03
   rotate: true
-  xy: 2, 5
-  size: 951, 800
-  orig: 1800, 1000
-  offset: 411, 100
+  xy: 730, 1793
+  size: 238, 837
+  orig: 1320, 2868
+  offset: 541, 1004
   index: -1
-YanWu_44
-  rotate: false
-  xy: 804, 2
-  size: 943, 800
-  orig: 1800, 1000
-  offset: 452, 100
+DaoDanGui_07
+  rotate: true
+  xy: 876, 205
+  size: 375, 822
+  orig: 1320, 2868
+  offset: 478, 1004
   index: -1
-YanWu_45
+DaoDanGui_08
+  rotate: true
+  xy: 2, 587
+  size: 315, 846
+  orig: 1320, 2868
+  offset: 517, 999
+  index: -1
+DaoDanGui_09
+  rotate: true
+  xy: 876, 1506
+  size: 285, 845
+  orig: 1320, 2868
+  offset: 524, 999
+  index: -1
+DaoDanGui_10
+  rotate: true
+  xy: 2, 1219
+  size: 289, 830
+  orig: 1320, 2868
+  offset: 520, 1003
+  index: -1
+DaoDanGui_11
   rotate: false
-  xy: 2, 958
-  size: 976, 800
-  orig: 1800, 1000
-  offset: 430, 100
+  xy: 1723, 1197
+  size: 304, 834
+  orig: 1320, 2868
+  offset: 519, 1005
+  index: -1
+DaoDanGui_13
+  rotate: false
+  xy: 1712, 343
+  size: 319, 852
+  orig: 1320, 2868
+  offset: 508, 999
+  index: -1
+DaoDanGui_31
+  rotate: true
+  xy: 2, 904
+  size: 305, 868
+  orig: 1320, 2868
+  offset: 477, 999
+  index: -1
+DaoDanGui_32
+  rotate: true
+  xy: 2, 1510
+  size: 281, 872
+  orig: 1320, 2868
+  offset: 520, 999
+  index: -1
+DaoDanGui_33
+  rotate: true
+  xy: 834, 1211
+  size: 293, 872
+  orig: 1320, 2868
+  offset: 518, 999
+  index: -1
+DaoDanGui_34
+  rotate: true
+  xy: 2, 255
+  size: 325, 872
+  orig: 1320, 2868
+  offset: 504, 999
+  index: -1
+DaoDanGui_36
+  rotate: true
+  xy: 850, 582
+  size: 317, 840
+  orig: 1320, 2868
+  offset: 524, 999
+  index: -1
+DaoDanGui_37
+  rotate: true
+  xy: 850, 582
+  size: 317, 840
+  orig: 1320, 2868
+  offset: 524, 999
+  index: -1
+DaoDanGui_38
+  rotate: true
+  xy: 872, 901
+  size: 308, 838
+  orig: 1320, 2868
+  offset: 519, 999
   index: -1
 
 skeleton2.png
-size: 1757,2001
+size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-YanWu_01
-  rotate: false
-  xy: 804, 2
-  size: 390, 342
-  orig: 1800, 1000
-  offset: 668, 348
-  index: -1
-YanWu_20
-  rotate: false
-  xy: 2, 1223
-  size: 951, 776
-  orig: 1800, 1000
-  offset: 438, 124
-  index: -1
-YanWu_23
-  rotate: false
-  xy: 804, 346
-  size: 949, 752
-  orig: 1800, 1000
-  offset: 395, 148
-  index: -1
-YanWu_39
+DaoDanGui_12
   rotate: true
-  xy: 2, 330
-  size: 891, 800
-  orig: 1800, 1000
-  offset: 378, 100
+  xy: 2, 437
+  size: 353, 852
+  orig: 1320, 2868
+  offset: 508, 999
   index: -1
-YanWu_43
+DaoDanGui_14
   rotate: true
-  xy: 955, 1100
-  size: 899, 800
-  orig: 1800, 1000
-  offset: 475, 100
+  xy: 2, 1482
+  size: 329, 859
+  orig: 1320, 2868
+  offset: 502, 999
+  index: -1
+DaoDanGui_15
+  rotate: true
+  xy: 863, 1472
+  size: 339, 853
+  orig: 1320, 2868
+  offset: 494, 1018
+  index: -1
+DaoDanGui_16
+  rotate: true
+  xy: 859, 782
+  size: 344, 864
+  orig: 1320, 2868
+  offset: 490, 1007
+  index: -1
+DaoDanGui_17
+  rotate: true
+  xy: 856, 436
+  size: 344, 872
+  orig: 1320, 2868
+  offset: 481, 999
+  index: -1
+DaoDanGui_18
+  rotate: true
+  xy: 2, 1137
+  size: 343, 855
+  orig: 1320, 2868
+  offset: 475, 1016
+  index: -1
+DaoDanGui_19
+  rotate: true
+  xy: 2, 792
+  size: 343, 855
+  orig: 1320, 2868
+  offset: 475, 1016
+  index: -1
+DaoDanGui_20
+  rotate: true
+  xy: 2, 17
+  size: 417, 856
+  orig: 1320, 2868
+  offset: 452, 1015
+  index: -1
+DaoDanGui_21
+  rotate: true
+  xy: 860, 2
+  size: 432, 862
+  orig: 1320, 2868
+  offset: 445, 1009
+  index: -1
+DaoDanGui_35
+  rotate: true
+  xy: 859, 1128
+  size: 342, 872
+  orig: 1320, 2868
+  offset: 495, 999
   index: -1
 
 skeleton3.png
-size: 1906,1720
+size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-YanWu_02
+DaoDanGui_06
   rotate: true
-  xy: 1509, 534
-  size: 419, 395
-  orig: 1800, 1000
-  offset: 663, 304
+  xy: 2, 1427
+  size: 434, 822
+  orig: 1320, 2868
+  offset: 441, 1004
   index: -1
-YanWu_17
-  rotate: false
-  xy: 930, 955
-  size: 909, 763
-  orig: 1800, 1000
-  offset: 470, 100
-  index: -1
-YanWu_18
-  rotate: false
-  xy: 2, 944
-  size: 926, 774
-  orig: 1800, 1000
-  offset: 457, 108
-  index: -1
-YanWu_19
+DaoDanGui_22
   rotate: true
-  xy: 2, 2
-  size: 940, 746
-  orig: 1800, 1000
-  offset: 446, 154
+  xy: 826, 1423
+  size: 438, 872
+  orig: 1320, 2868
+  offset: 438, 999
   index: -1
-YanWu_25
+DaoDanGui_23
   rotate: true
-  xy: 750, 41
-  size: 901, 757
-  orig: 1800, 1000
-  offset: 382, 143
+  xy: 2, 973
+  size: 448, 872
+  orig: 1320, 2868
+  offset: 431, 999
+  index: -1
+DaoDanGui_24
+  rotate: true
+  xy: 876, 962
+  size: 459, 852
+  orig: 1320, 2868
+  offset: 424, 1005
+  index: -1
+DaoDanGui_25
+  rotate: true
+  xy: 2, 503
+  size: 468, 852
+  orig: 1320, 2868
+  offset: 418, 1005
+  index: -1
+DaoDanGui_27
+  rotate: true
+  xy: 856, 482
+  size: 478, 836
+  orig: 1320, 2868
+  offset: 412, 1012
+  index: -1
+DaoDanGui_28
+  rotate: true
+  xy: 2, 23
+  size: 478, 834
+  orig: 1320, 2868
+  offset: 412, 1011
+  index: -1
+DaoDanGui_29
+  rotate: true
+  xy: 838, 2
+  size: 478, 858
+  orig: 1320, 2868
+  offset: 412, 1000
   index: -1
 
 skeleton4.png
-size: 1777,1580
+size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-YanWu_24
-  rotate: false
-  xy: 853, 49
-  size: 899, 739
-  orig: 1800, 1000
-  offset: 381, 161
-  index: -1
-YanWu_26
-  rotate: false
-  xy: 2, 804
-  size: 895, 774
-  orig: 1800, 1000
-  offset: 386, 126
-  index: -1
-YanWu_27
-  rotate: false
-  xy: 899, 790
-  size: 876, 788
-  orig: 1800, 1000
-  offset: 400, 112
-  index: -1
-YanWu_42
-  rotate: false
-  xy: 2, 2
-  size: 849, 800
-  orig: 1800, 1000
-  offset: 500, 100
-  index: -1
-
-skeleton5.png
-size: 1707,1521
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-YanWu_38
+DaoDanGui_04
   rotate: true
-  xy: 2, 2
-  size: 842, 786
-  orig: 1800, 1000
-  offset: 400, 100
+  xy: 824, 619
+  size: 612, 844
+  orig: 1320, 2868
+  offset: 367, 999
   index: -1
-YanWu_41
+DaoDanGui_05
   rotate: true
-  xy: 905, 712
-  size: 807, 800
-  orig: 1800, 1000
-  offset: 516, 100
+  xy: 2, 709
+  size: 523, 820
+  orig: 1320, 2868
+  offset: 404, 1006
   index: -1
-YanWu_48
-  rotate: false
-  xy: 790, 17
-  size: 891, 693
-  orig: 1800, 1000
-  offset: 504, 100
-  index: -1
-YanWu_49
-  rotate: false
-  xy: 2, 846
-  size: 901, 673
-  orig: 1800, 1000
-  offset: 493, 112
-  index: -1
-
-skeleton6.png
-size: 1666,1549
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-YanWu_16
-  rotate: false
-  xy: 2, 804
-  size: 883, 743
-  orig: 1800, 1000
-  offset: 487, 100
-  index: -1
-YanWu_30
-  rotate: false
-  xy: 887, 747
-  size: 777, 800
-  orig: 1800, 1000
-  offset: 525, 100
-  index: -1
-YanWu_40
-  rotate: false
-  xy: 2, 2
-  size: 775, 800
-  orig: 1800, 1000
-  offset: 521, 100
-  index: -1
-YanWu_46
-  rotate: false
-  xy: 779, 34
-  size: 876, 711
-  orig: 1800, 1000
-  offset: 532, 100
-  index: -1
-
-skeleton7.png
-size: 1628,1535
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-YanWu_15
-  rotate: false
-  xy: 747, 40
-  size: 857, 700
-  orig: 1800, 1000
-  offset: 501, 126
-  index: -1
-YanWu_31
+DaoDanGui_26
   rotate: true
-  xy: 2, 2
-  size: 821, 743
-  orig: 1800, 1000
-  offset: 497, 117
+  xy: 872, 1233
+  size: 479, 840
+  orig: 1320, 2868
+  offset: 411, 1015
   index: -1
-YanWu_32
-  rotate: false
-  xy: 2, 825
-  size: 863, 708
-  orig: 1800, 1000
-  offset: 469, 146
-  index: -1
-YanWu_37
+DaoDanGui_30
   rotate: true
-  xy: 867, 742
-  size: 791, 759
-  orig: 1800, 1000
-  offset: 424, 103
-  index: -1
-
-skeleton8.png
-size: 1590,1992
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-YanWu_03
-  rotate: true
-  xy: 2, 2
-  size: 550, 596
-  orig: 1800, 1000
-  offset: 642, 173
-  index: -1
-YanWu_11
-  rotate: true
-  xy: 2, 554
-  size: 743, 725
-  orig: 1800, 1000
-  offset: 531, 100
-  index: -1
-YanWu_29
-  rotate: false
-  xy: 857, 1190
-  size: 731, 800
-  orig: 1800, 1000
-  offset: 552, 100
-  index: -1
-YanWu_35
-  rotate: false
-  xy: 2, 1299
-  size: 853, 691
-  orig: 1800, 1000
-  offset: 474, 136
-  index: -1
-YanWu_47
-  rotate: false
-  xy: 729, 484
-  size: 852, 704
-  orig: 1800, 1000
-  offset: 517, 100
-  index: -1
-
-skeleton9.png
-size: 1568,1473
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-YanWu_12
-  rotate: true
-  xy: 2, 2
-  size: 769, 720
-  orig: 1800, 1000
-  offset: 524, 100
-  index: -1
-YanWu_33
-  rotate: false
-  xy: 724, 23
-  size: 829, 705
-  orig: 1800, 1000
-  offset: 512, 140
-  index: -1
-YanWu_34
-  rotate: false
-  xy: 2, 773
-  size: 837, 698
-  orig: 1800, 1000
-  offset: 500, 137
-  index: -1
-YanWu_36
-  rotate: true
-  xy: 841, 730
-  size: 741, 725
-  orig: 1800, 1000
-  offset: 448, 118
-  index: -1
-
-skeleton10.png
-size: 2044,1498
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-YanWu_07
-  rotate: false
-  xy: 1413, 158
-  size: 629, 654
-  orig: 1800, 1000
-  offset: 596, 120
-  index: -1
-YanWu_10
-  rotate: false
-  xy: 692, 74
-  size: 719, 728
-  orig: 1800, 1000
-  offset: 544, 100
-  index: -1
-YanWu_13
-  rotate: false
-  xy: 829, 814
-  size: 799, 682
-  orig: 1800, 1000
-  offset: 520, 110
-  index: -1
-YanWu_14
-  rotate: false
-  xy: 2, 804
-  size: 825, 692
-  orig: 1800, 1000
-  offset: 516, 117
-  index: -1
-YanWu_28
-  rotate: false
-  xy: 2, 2
-  size: 688, 800
-  orig: 1800, 1000
-  offset: 577, 100
-  index: -1
-
-skeleton11.png
-size: 2002,1387
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-YanWu_04
-  rotate: true
-  xy: 2, 2
-  size: 657, 703
-  orig: 1800, 1000
-  offset: 578, 113
-  index: -1
-YanWu_05
-  rotate: false
-  xy: 670, 664
-  size: 660, 721
-  orig: 1800, 1000
-  offset: 568, 100
-  index: -1
-YanWu_06
-  rotate: false
-  xy: 2, 661
-  size: 666, 724
-  orig: 1800, 1000
-  offset: 560, 100
-  index: -1
-YanWu_08
-  rotate: true
-  xy: 707, 2
-  size: 660, 663
-  orig: 1800, 1000
-  offset: 578, 112
-  index: -1
-YanWu_09
-  rotate: true
-  xy: 1332, 696
-  size: 689, 668
-  orig: 1800, 1000
-  offset: 561, 108
+  xy: 2, 1234
+  size: 478, 868
+  orig: 1320, 2868
+  offset: 411, 999
   index: -1
