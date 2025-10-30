@@ -1,0 +1,213 @@
+
+skeleton.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PiaoLuo_QIU_16
+  rotate: false
+  xy: 1337, 936
+  size: 420, 881
+  orig: 442, 960
+  offset: 7, 37
+  index: -1
+PiaoLuo_QIU_19
+  rotate: true
+  xy: 436, 933
+  size: 440, 899
+  orig: 442, 960
+  offset: 0, 0
+  index: -1
+PiaoLuo_QIU_2
+  rotate: true
+  xy: 868, 55
+  size: 439, 937
+  orig: 442, 960
+  offset: 0, 23
+  index: -1
+PiaoLuo_QIU_20
+  rotate: true
+  xy: 436, 1375
+  size: 442, 853
+  orig: 442, 960
+  offset: 0, 40
+  index: -1
+PiaoLuo_QIU_24
+  rotate: true
+  xy: 2, 423
+  size: 442, 864
+  orig: 442, 960
+  offset: 0, 5
+  index: -1
+PiaoLuo_QIU_25
+  rotate: true
+  xy: 2, 43
+  size: 378, 862
+  orig: 442, 960
+  offset: 0, 0
+  index: -1
+PiaoLuo_QIU_3
+  rotate: true
+  xy: 868, 496
+  size: 435, 949
+  orig: 442, 960
+  offset: 0, 11
+  index: -1
+PiaoLuo_QIU_4
+  rotate: false
+  xy: 2, 867
+  size: 432, 950
+  orig: 442, 960
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PiaoLuo_QIU_14
+  rotate: false
+  xy: 421, 10
+  size: 413, 866
+  orig: 442, 960
+  offset: 5, 63
+  index: -1
+PiaoLuo_QIU_15
+  rotate: false
+  xy: 2, 2
+  size: 417, 874
+  orig: 442, 960
+  offset: 6, 50
+  index: -1
+PiaoLuo_QIU_17
+  rotate: false
+  xy: 870, 927
+  size: 431, 888
+  orig: 442, 960
+  offset: 0, 24
+  index: -1
+PiaoLuo_QIU_18
+  rotate: false
+  xy: 432, 921
+  size: 436, 894
+  orig: 442, 960
+  offset: 0, 11
+  index: -1
+PiaoLuo_QIU_21
+  rotate: false
+  xy: 1303, 960
+  size: 439, 855
+  orig: 442, 960
+  offset: 3, 31
+  index: -1
+PiaoLuo_QIU_22
+  rotate: false
+  xy: 1267, 66
+  size: 432, 859
+  orig: 442, 960
+  offset: 10, 22
+  index: -1
+PiaoLuo_QIU_23
+  rotate: false
+  xy: 836, 58
+  size: 429, 861
+  orig: 442, 960
+  offset: 13, 14
+  index: -1
+PiaoLuo_QIU_5
+  rotate: false
+  xy: 2, 878
+  size: 428, 937
+  orig: 442, 960
+  offset: 0, 0
+  index: -1
+
+skeleton3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PiaoLuo_QIU_0
+  rotate: false
+  xy: 2, 414
+  size: 442, 803
+  orig: 442, 960
+  offset: 0, 47
+  index: -1
+PiaoLuo_QIU_1
+  rotate: false
+  xy: 2, 1219
+  size: 442, 808
+  orig: 442, 960
+  offset: 0, 35
+  index: -1
+PiaoLuo_QIU_10
+  rotate: true
+  xy: 446, 786
+  size: 407, 839
+  orig: 442, 960
+  offset: 2, 115
+  index: -1
+PiaoLuo_QIU_11
+  rotate: false
+  xy: 1287, 355
+  size: 402, 846
+  orig: 442, 960
+  offset: 3, 102
+  index: -1
+PiaoLuo_QIU_12
+  rotate: true
+  xy: 862, 1621
+  size: 406, 852
+  orig: 442, 960
+  offset: 4, 90
+  index: -1
+PiaoLuo_QIU_13
+  rotate: true
+  xy: 2, 2
+  size: 410, 858
+  orig: 442, 960
+  offset: 4, 77
+  index: -1
+PiaoLuo_QIU_8
+  rotate: true
+  xy: 860, 1203
+  size: 416, 818
+  orig: 442, 960
+  offset: 1, 142
+  index: -1
+PiaoLuo_QIU_9
+  rotate: false
+  xy: 446, 1195
+  size: 412, 832
+  orig: 442, 960
+  offset: 1, 128
+  index: -1
+
+skeleton4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PiaoLuo_QIU_26
+  rotate: false
+  xy: 2, 366
+  size: 372, 856
+  orig: 442, 960
+  offset: 5, 0
+  index: -1
+PiaoLuo_QIU_6
+  rotate: false
+  xy: 798, 423
+  size: 424, 799
+  orig: 442, 960
+  offset: 0, 161
+  index: -1
+PiaoLuo_QIU_7
+  rotate: false
+  xy: 376, 415
+  size: 420, 807
+  orig: 442, 960
+  offset: 0, 153
+  index: -1
