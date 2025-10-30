@@ -1,26 +1,26 @@
 
 YouLing.png
-size: 336,178
+size: 256,256
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 YouLing_01
-  rotate: false
-  xy: 149, 2
+  rotate: true
+  xy: 173, 103
   size: 148, 78
   orig: 148, 78
   offset: 0, 0
   index: -1
 YouLing_02
-  rotate: true
-  xy: 2, 7
+  rotate: false
+  xy: 2, 106
   size: 169, 145
   orig: 169, 145
   offset: 0, 0
   index: -1
 YouLing_03
   rotate: false
-  xy: 149, 82
+  xy: 2, 7
   size: 185, 94
   orig: 185, 94
   offset: 0, 0
