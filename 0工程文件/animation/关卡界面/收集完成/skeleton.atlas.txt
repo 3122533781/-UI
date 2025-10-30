@@ -1,0 +1,258 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DaDanQi
+  rotate: true
+  xy: 143, 946
+  size: 74, 147
+  orig: 74, 147
+  offset: 0, 0
+  index: -1
+ShouJiWanCheng_0
+  rotate: false
+  xy: 292, 932
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+ShouJiWanCheng_1
+  rotate: false
+  xy: 420, 932
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+ShouJiWanCheng_10
+  rotate: false
+  xy: 514, 842
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+ShouJiWanCheng_11
+  rotate: false
+  xy: 642, 842
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+ShouJiWanCheng_12
+  rotate: false
+  xy: 770, 842
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+ShouJiWanCheng_13
+  rotate: false
+  xy: 2, 808
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+ShouJiWanCheng_14
+  rotate: false
+  xy: 130, 766
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+ShouJiWanCheng_15
+  rotate: true
+  xy: 898, 766
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+ShouJiWanCheng_16
+  rotate: false
+  xy: 258, 752
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+ShouJiWanCheng_17
+  rotate: false
+  xy: 386, 752
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+ShouJiWanCheng_18
+  rotate: false
+  xy: 514, 752
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+ShouJiWanCheng_19
+  rotate: false
+  xy: 642, 752
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+ShouJiWanCheng_2
+  rotate: false
+  xy: 548, 932
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+ShouJiWanCheng_20
+  rotate: false
+  xy: 770, 752
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+ShouJiWanCheng_21
+  rotate: false
+  xy: 2, 718
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+ShouJiWanCheng_22
+  rotate: false
+  xy: 130, 676
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+ShouJiWanCheng_23
+  rotate: false
+  xy: 258, 662
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+ShouJiWanCheng_24
+  rotate: false
+  xy: 386, 662
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+ShouJiWanCheng_25
+  rotate: false
+  xy: 514, 662
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+ShouJiWanCheng_26
+  rotate: false
+  xy: 642, 662
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+ShouJiWanCheng_27
+  rotate: false
+  xy: 770, 662
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+ShouJiWanCheng_28
+  rotate: true
+  xy: 898, 638
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+ShouJiWanCheng_29
+  rotate: true
+  xy: 898, 638
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+ShouJiWanCheng_30
+  rotate: true
+  xy: 898, 638
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+ShouJiWanCheng_31
+  rotate: true
+  xy: 898, 638
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+ShouJiWanCheng_32
+  rotate: true
+  xy: 898, 638
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+ShouJiWanCheng_3
+  rotate: false
+  xy: 676, 932
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+ShouJiWanCheng_4
+  rotate: false
+  xy: 804, 932
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+ShouJiWanCheng_5
+  rotate: false
+  xy: 2, 898
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+ShouJiWanCheng_6
+  rotate: true
+  xy: 932, 894
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+ShouJiWanCheng_7
+  rotate: false
+  xy: 130, 856
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+ShouJiWanCheng_8
+  rotate: false
+  xy: 258, 842
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+ShouJiWanCheng_9
+  rotate: false
+  xy: 386, 842
+  size: 126, 88
+  orig: 126, 88
+  offset: 0, 0
+  index: -1
+Wan_01
+  rotate: false
+  xy: 2, 988
+  size: 139, 32
+  orig: 139, 32
+  offset: 0, 0
+  index: -1
+Wan_02
+  rotate: false
+  xy: 2, 581
+  size: 140, 93
+  orig: 140, 93
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+skeleton.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PaiXuWanCheng_1
+  rotate: true
+  xy: 1778, 813
+  size: 210, 205
+  orig: 1920, 1080
+  offset: 855, 169
+  index: -1
+PaiXuWanCheng_10
+  rotate: false
+  xy: 1366, 1025
+  size: 492, 474
+  orig: 1920, 1080
+  offset: 709, 219
+  index: -1
+PaiXuWanCheng_11
+  rotate: false
+  xy: 1366, 1501
+  size: 521, 504
+  orig: 1920, 1080
+  offset: 694, 226
+  index: -1
+PaiXuWanCheng_12
+  rotate: true
+  xy: 2, 2
+  size: 575, 620
+  orig: 1920, 1080
+  offset: 680, 146
+  index: -1
+PaiXuWanCheng_13
+  rotate: false
+  xy: 763, 1347
+  size: 601, 658
+  orig: 1920, 1080
+  offset: 669, 145
+  index: -1
+PaiXuWanCheng_14
+  rotate: false
+  xy: 2, 579
+  size: 721, 691
+  orig: 1920, 1080
+  offset: 565, 145
+  index: -1
+PaiXuWanCheng_15
+  rotate: false
+  xy: 2, 1272
+  size: 759, 733
+  orig: 1920, 1080
+  offset: 543, 139
+  index: -1
+PaiXuWanCheng_2
+  rotate: false
+  xy: 1443, 210
+  size: 248, 238
+  orig: 1920, 1080
+  offset: 835, 170
+  index: -1
+PaiXuWanCheng_3
+  rotate: false
+  xy: 1456, 450
+  size: 286, 271
+  orig: 1920, 1080
+  offset: 815, 172
+  index: -1
+PaiXuWanCheng_4
+  rotate: false
+  xy: 1456, 723
+  size: 320, 300
+  orig: 1920, 1080
+  offset: 797, 176
+  index: -1
+PaiXuWanCheng_5
+  rotate: false
+  xy: 725, 602
+  size: 349, 323
+  orig: 1920, 1080
+  offset: 782, 184
+  index: -1
+PaiXuWanCheng_6
+  rotate: false
+  xy: 1076, 578
+  size: 378, 347
+  orig: 1920, 1080
+  offset: 767, 191
+  index: -1
+PaiXuWanCheng_7
+  rotate: true
+  xy: 1071, 170
+  size: 406, 370
+  orig: 1920, 1080
+  offset: 753, 198
+  index: -1
+PaiXuWanCheng_8
+  rotate: false
+  xy: 763, 927
+  size: 434, 418
+  orig: 1920, 1080
+  offset: 739, 205
+  index: -1
+PaiXuWanCheng_9
+  rotate: true
+  xy: 624, 114
+  size: 463, 445
+  orig: 1920, 1080
+  offset: 724, 212
+  index: -1

@@ -1,273 +1,213 @@
 
 skeleton.png
-size: 1728,1506
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-PiaoLuo_QIU_25
-  rotate: true
-  xy: 2, 2
-  size: 756, 1724
-  orig: 884, 1920
-  offset: 0, 0
-  index: -1
-PiaoLuo_QIU_26
-  rotate: true
-  xy: 2, 760
-  size: 744, 1711
-  orig: 884, 1920
-  offset: 10, 0
-  index: -1
-
-skeleton2.png
-size: 1708,1623
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-PiaoLuo_QIU_11
-  rotate: true
-  xy: 2, 816
-  size: 805, 1691
-  orig: 884, 1920
-  offset: 6, 205
-  index: -1
-PiaoLuo_QIU_12
-  rotate: true
-  xy: 2, 2
-  size: 812, 1704
-  orig: 884, 1920
-  offset: 7, 179
-  index: -1
-
-skeleton3.png
-size: 1721,1639
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-PiaoLuo_QIU_10
-  rotate: true
-  xy: 2, 823
-  size: 814, 1677
-  orig: 884, 1920
-  offset: 4, 231
-  index: -1
-PiaoLuo_QIU_13
-  rotate: true
-  xy: 2, 2
-  size: 819, 1717
-  orig: 884, 1920
-  offset: 9, 153
-  index: -1
-
-skeleton4.png
-size: 1735,1653
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-PiaoLuo_QIU_14
-  rotate: true
-  xy: 2, 2
-  size: 825, 1731
-  orig: 884, 1920
-  offset: 11, 127
-  index: -1
-PiaoLuo_QIU_9
-  rotate: true
-  xy: 2, 829
-  size: 822, 1663
-  orig: 884, 1920
-  offset: 3, 257
-  index: -1
-
-skeleton5.png
-size: 1752,1671
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-PiaoLuo_QIU_15
-  rotate: true
-  xy: 2, 2
-  size: 833, 1748
-  orig: 884, 1920
-  offset: 12, 100
-  index: -1
-PiaoLuo_QIU_8
-  rotate: true
-  xy: 2, 837
-  size: 832, 1637
-  orig: 884, 1920
-  offset: 1, 283
-  index: -1
-
-skeleton6.png
-size: 1766,1686
+size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 PiaoLuo_QIU_16
-  rotate: true
-  xy: 2, 2
-  size: 840, 1762
-  orig: 884, 1920
-  offset: 14, 74
+  rotate: false
+  xy: 1337, 936
+  size: 420, 881
+  orig: 442, 960
+  offset: 7, 37
   index: -1
-PiaoLuo_QIU_7
+PiaoLuo_QIU_19
   rotate: true
-  xy: 2, 844
-  size: 840, 1615
-  orig: 884, 1920
-  offset: 0, 305
-  index: -1
-
-skeleton7.png
-size: 1878,1709
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-PiaoLuo_QIU_5
-  rotate: true
-  xy: 2, 2
-  size: 855, 1874
-  orig: 884, 1920
+  xy: 436, 933
+  size: 440, 899
+  orig: 442, 960
   offset: 0, 0
   index: -1
-PiaoLuo_QIU_6
+PiaoLuo_QIU_2
   rotate: true
-  xy: 2, 859
-  size: 848, 1598
-  orig: 884, 1920
-  offset: 0, 322
-  index: -1
-
-skeleton8.png
-size: 1904,1728
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-PiaoLuo_QIU_23
-  rotate: true
-  xy: 2, 867
-  size: 859, 1723
-  orig: 884, 1920
-  offset: 25, 27
-  index: -1
-PiaoLuo_QIU_4
-  rotate: true
-  xy: 2, 2
-  size: 863, 1900
-  orig: 884, 1920
-  offset: 0, 0
-  index: -1
-
-skeleton9.png
-size: 1779,1733
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-PiaoLuo_QIU_17
-  rotate: true
-  xy: 2, 868
-  size: 863, 1775
-  orig: 884, 1920
-  offset: 0, 48
-  index: -1
-PiaoLuo_QIU_22
-  rotate: true
-  xy: 2, 2
-  size: 864, 1716
-  orig: 884, 1920
-  offset: 20, 45
-  index: -1
-
-skeleton10.png
-size: 1902,1747
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-PiaoLuo_QIU_18
-  rotate: true
-  xy: 2, 2
-  size: 871, 1787
-  orig: 884, 1920
+  xy: 868, 55
+  size: 439, 937
+  orig: 442, 960
   offset: 0, 23
+  index: -1
+PiaoLuo_QIU_20
+  rotate: true
+  xy: 436, 1375
+  size: 442, 853
+  orig: 442, 960
+  offset: 0, 40
+  index: -1
+PiaoLuo_QIU_24
+  rotate: true
+  xy: 2, 423
+  size: 442, 864
+  orig: 442, 960
+  offset: 0, 5
+  index: -1
+PiaoLuo_QIU_25
+  rotate: true
+  xy: 2, 43
+  size: 378, 862
+  orig: 442, 960
+  offset: 0, 0
   index: -1
 PiaoLuo_QIU_3
   rotate: true
-  xy: 2, 875
-  size: 870, 1898
-  orig: 884, 1920
-  offset: 0, 22
+  xy: 868, 496
+  size: 435, 949
+  orig: 442, 960
+  offset: 0, 11
   index: -1
-
-skeleton11.png
-size: 1879,1761
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-PiaoLuo_QIU_2
-  rotate: true
-  xy: 2, 2
-  size: 878, 1875
-  orig: 884, 1920
-  offset: 0, 45
-  index: -1
-PiaoLuo_QIU_21
-  rotate: true
-  xy: 2, 882
-  size: 877, 1711
-  orig: 884, 1920
-  offset: 7, 62
-  index: -1
-
-skeleton12.png
-size: 1770,1801
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-PiaoLuo_QIU_19
+PiaoLuo_QIU_4
   rotate: false
-  xy: 2, 2
-  size: 880, 1797
-  orig: 884, 1920
+  xy: 2, 867
+  size: 432, 950
+  orig: 442, 960
   offset: 0, 0
   index: -1
-PiaoLuo_QIU_24
+
+skeleton2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PiaoLuo_QIU_14
   rotate: false
-  xy: 884, 72
-  size: 884, 1727
-  orig: 884, 1920
-  offset: 0, 10
+  xy: 421, 10
+  size: 413, 866
+  orig: 442, 960
+  offset: 5, 63
+  index: -1
+PiaoLuo_QIU_15
+  rotate: false
+  xy: 2, 2
+  size: 417, 874
+  orig: 442, 960
+  offset: 6, 50
+  index: -1
+PiaoLuo_QIU_17
+  rotate: false
+  xy: 870, 927
+  size: 431, 888
+  orig: 442, 960
+  offset: 0, 24
+  index: -1
+PiaoLuo_QIU_18
+  rotate: false
+  xy: 432, 921
+  size: 436, 894
+  orig: 442, 960
+  offset: 0, 11
+  index: -1
+PiaoLuo_QIU_21
+  rotate: false
+  xy: 1303, 960
+  size: 439, 855
+  orig: 442, 960
+  offset: 3, 31
+  index: -1
+PiaoLuo_QIU_22
+  rotate: false
+  xy: 1267, 66
+  size: 432, 859
+  orig: 442, 960
+  offset: 10, 22
+  index: -1
+PiaoLuo_QIU_23
+  rotate: false
+  xy: 836, 58
+  size: 429, 861
+  orig: 442, 960
+  offset: 13, 14
+  index: -1
+PiaoLuo_QIU_5
+  rotate: false
+  xy: 2, 878
+  size: 428, 937
+  orig: 442, 960
+  offset: 0, 0
   index: -1
 
-skeleton13.png
-size: 1620,1774
+skeleton3.png
+size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 PiaoLuo_QIU_0
-  rotate: true
-  xy: 2, 888
-  size: 884, 1604
-  orig: 884, 1920
-  offset: 0, 95
+  rotate: false
+  xy: 2, 414
+  size: 442, 803
+  orig: 442, 960
+  offset: 0, 47
   index: -1
 PiaoLuo_QIU_1
+  rotate: false
+  xy: 2, 1219
+  size: 442, 808
+  orig: 442, 960
+  offset: 0, 35
+  index: -1
+PiaoLuo_QIU_10
+  rotate: true
+  xy: 446, 786
+  size: 407, 839
+  orig: 442, 960
+  offset: 2, 115
+  index: -1
+PiaoLuo_QIU_11
+  rotate: false
+  xy: 1287, 355
+  size: 402, 846
+  orig: 442, 960
+  offset: 3, 102
+  index: -1
+PiaoLuo_QIU_12
+  rotate: true
+  xy: 862, 1621
+  size: 406, 852
+  orig: 442, 960
+  offset: 4, 90
+  index: -1
+PiaoLuo_QIU_13
   rotate: true
   xy: 2, 2
-  size: 884, 1616
-  orig: 884, 1920
-  offset: 0, 70
+  size: 410, 858
+  orig: 442, 960
+  offset: 4, 77
+  index: -1
+PiaoLuo_QIU_8
+  rotate: true
+  xy: 860, 1203
+  size: 416, 818
+  orig: 442, 960
+  offset: 1, 142
+  index: -1
+PiaoLuo_QIU_9
+  rotate: false
+  xy: 446, 1195
+  size: 412, 832
+  orig: 442, 960
+  offset: 1, 128
   index: -1
 
-skeleton14.png
-size: 888,1710
+skeleton4.png
+size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-PiaoLuo_QIU_20
+PiaoLuo_QIU_26
   rotate: false
-  xy: 2, 2
-  size: 884, 1706
-  orig: 884, 1920
-  offset: 0, 79
+  xy: 2, 366
+  size: 372, 856
+  orig: 442, 960
+  offset: 5, 0
+  index: -1
+PiaoLuo_QIU_6
+  rotate: false
+  xy: 798, 423
+  size: 424, 799
+  orig: 442, 960
+  offset: 0, 161
+  index: -1
+PiaoLuo_QIU_7
+  rotate: false
+  xy: 376, 415
+  size: 420, 807
+  orig: 442, 960
+  offset: 0, 153
   index: -1
