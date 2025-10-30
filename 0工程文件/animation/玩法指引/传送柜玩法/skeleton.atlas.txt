@@ -1,0 +1,517 @@
+
+skeleton.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ChuanSongGuiWanFa_0
+  rotate: false
+  xy: 2, 1782
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_1
+  rotate: false
+  xy: 2, 1782
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_10
+  rotate: false
+  xy: 658, 1594
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_11
+  rotate: false
+  xy: 986, 1594
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_12
+  rotate: false
+  xy: 1314, 1594
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_13
+  rotate: false
+  xy: 1642, 1594
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_14
+  rotate: false
+  xy: 2, 1406
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_15
+  rotate: false
+  xy: 330, 1406
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_16
+  rotate: false
+  xy: 658, 1406
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_17
+  rotate: false
+  xy: 986, 1406
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_18
+  rotate: false
+  xy: 1314, 1406
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_19
+  rotate: false
+  xy: 1642, 1406
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_2
+  rotate: false
+  xy: 330, 1782
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_20
+  rotate: false
+  xy: 2, 1218
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_21
+  rotate: false
+  xy: 330, 1218
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_22
+  rotate: false
+  xy: 658, 1218
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_23
+  rotate: false
+  xy: 986, 1218
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_24
+  rotate: false
+  xy: 1314, 1218
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_25
+  rotate: false
+  xy: 1642, 1218
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_26
+  rotate: false
+  xy: 2, 1030
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_27
+  rotate: false
+  xy: 330, 1030
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_28
+  rotate: false
+  xy: 658, 1030
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_29
+  rotate: false
+  xy: 986, 1030
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_3
+  rotate: false
+  xy: 658, 1782
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_30
+  rotate: false
+  xy: 1314, 1030
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_31
+  rotate: false
+  xy: 1642, 1030
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_32
+  rotate: false
+  xy: 2, 842
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_33
+  rotate: false
+  xy: 330, 842
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_34
+  rotate: false
+  xy: 330, 653
+  size: 326, 187
+  orig: 660, 1434
+  offset: 171, 629
+  index: -1
+ChuanSongGuiWanFa_35
+  rotate: false
+  xy: 2, 464
+  size: 326, 188
+  orig: 660, 1434
+  offset: 171, 628
+  index: -1
+ChuanSongGuiWanFa_36
+  rotate: false
+  xy: 658, 462
+  size: 326, 189
+  orig: 660, 1434
+  offset: 171, 627
+  index: -1
+ChuanSongGuiWanFa_37
+  rotate: false
+  xy: 330, 271
+  size: 326, 190
+  orig: 660, 1434
+  offset: 171, 626
+  index: -1
+ChuanSongGuiWanFa_38
+  rotate: false
+  xy: 658, 270
+  size: 326, 190
+  orig: 660, 1434
+  offset: 171, 626
+  index: -1
+ChuanSongGuiWanFa_39
+  rotate: false
+  xy: 986, 270
+  size: 326, 190
+  orig: 660, 1434
+  offset: 171, 626
+  index: -1
+ChuanSongGuiWanFa_4
+  rotate: false
+  xy: 986, 1782
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_40
+  rotate: false
+  xy: 986, 462
+  size: 326, 189
+  orig: 660, 1434
+  offset: 171, 627
+  index: -1
+ChuanSongGuiWanFa_41
+  rotate: false
+  xy: 658, 653
+  size: 326, 187
+  orig: 660, 1434
+  offset: 171, 629
+  index: -1
+ChuanSongGuiWanFa_42
+  rotate: false
+  xy: 1314, 462
+  size: 326, 189
+  orig: 660, 1434
+  offset: 171, 627
+  index: -1
+ChuanSongGuiWanFa_43
+  rotate: false
+  xy: 1314, 270
+  size: 326, 190
+  orig: 660, 1434
+  offset: 171, 626
+  index: -1
+ChuanSongGuiWanFa_44
+  rotate: false
+  xy: 1642, 270
+  size: 326, 190
+  orig: 660, 1434
+  offset: 171, 626
+  index: -1
+ChuanSongGuiWanFa_45
+  rotate: false
+  xy: 986, 653
+  size: 326, 187
+  orig: 660, 1434
+  offset: 171, 629
+  index: -1
+ChuanSongGuiWanFa_46
+  rotate: false
+  xy: 2, 81
+  size: 326, 190
+  orig: 660, 1434
+  offset: 171, 626
+  index: -1
+ChuanSongGuiWanFa_47
+  rotate: false
+  xy: 330, 79
+  size: 326, 190
+  orig: 660, 1434
+  offset: 171, 626
+  index: -1
+ChuanSongGuiWanFa_48
+  rotate: false
+  xy: 658, 78
+  size: 326, 190
+  orig: 660, 1434
+  offset: 171, 626
+  index: -1
+ChuanSongGuiWanFa_49
+  rotate: false
+  xy: 1314, 653
+  size: 326, 187
+  orig: 660, 1434
+  offset: 171, 629
+  index: -1
+ChuanSongGuiWanFa_5
+  rotate: false
+  xy: 1314, 1782
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_50
+  rotate: false
+  xy: 1642, 462
+  size: 326, 189
+  orig: 660, 1434
+  offset: 171, 627
+  index: -1
+ChuanSongGuiWanFa_51
+  rotate: false
+  xy: 986, 78
+  size: 326, 190
+  orig: 660, 1434
+  offset: 171, 626
+  index: -1
+ChuanSongGuiWanFa_52
+  rotate: false
+  xy: 1314, 78
+  size: 326, 190
+  orig: 660, 1434
+  offset: 171, 626
+  index: -1
+ChuanSongGuiWanFa_53
+  rotate: false
+  xy: 1642, 78
+  size: 326, 190
+  orig: 660, 1434
+  offset: 171, 626
+  index: -1
+ChuanSongGuiWanFa_54
+  rotate: false
+  xy: 2, 273
+  size: 326, 189
+  orig: 660, 1434
+  offset: 171, 627
+  index: -1
+ChuanSongGuiWanFa_55
+  rotate: false
+  xy: 330, 463
+  size: 326, 188
+  orig: 660, 1434
+  offset: 171, 628
+  index: -1
+ChuanSongGuiWanFa_56
+  rotate: false
+  xy: 1642, 653
+  size: 326, 187
+  orig: 660, 1434
+  offset: 171, 629
+  index: -1
+ChuanSongGuiWanFa_57
+  rotate: false
+  xy: 658, 842
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_58
+  rotate: false
+  xy: 986, 842
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_59
+  rotate: false
+  xy: 1314, 842
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_6
+  rotate: false
+  xy: 1642, 1782
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_60
+  rotate: false
+  xy: 1642, 842
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_61
+  rotate: false
+  xy: 1642, 842
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_62
+  rotate: false
+  xy: 1642, 842
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_63
+  rotate: false
+  xy: 1642, 842
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_64
+  rotate: false
+  xy: 1642, 842
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_65
+  rotate: false
+  xy: 1642, 842
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_66
+  rotate: false
+  xy: 1642, 842
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_67
+  rotate: false
+  xy: 1642, 842
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_68
+  rotate: false
+  xy: 1642, 842
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_69
+  rotate: false
+  xy: 1642, 842
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_70
+  rotate: false
+  xy: 1642, 842
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_71
+  rotate: false
+  xy: 1642, 842
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_72
+  rotate: false
+  xy: 1642, 842
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_7
+  rotate: false
+  xy: 2, 1594
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_8
+  rotate: false
+  xy: 330, 1594
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1
+ChuanSongGuiWanFa_9
+  rotate: false
+  xy: 2, 654
+  size: 326, 186
+  orig: 660, 1434
+  offset: 171, 630
+  index: -1

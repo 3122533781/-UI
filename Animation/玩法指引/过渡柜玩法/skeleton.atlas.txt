@@ -5,172 +5,333 @@ format: RGBA8888
 filter: Linear,Linear
 repeat: none
 ChuanSongAni00
-  rotate: true
-  xy: 2, 1393
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  rotate: false
+  xy: 643, 538
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni01
-  rotate: true
-  xy: 2, 1393
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  rotate: false
+  xy: 643, 538
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni02
-  rotate: true
-  xy: 2, 1393
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  rotate: false
+  xy: 643, 538
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni03
-  rotate: true
-  xy: 2, 1393
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  rotate: false
+  xy: 643, 538
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni04
-  rotate: true
-  xy: 2, 1393
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  rotate: false
+  xy: 643, 538
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni05
-  rotate: true
-  xy: 2, 1393
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  rotate: false
+  xy: 643, 538
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni06
-  rotate: true
-  xy: 2, 1393
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  rotate: false
+  xy: 643, 538
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni07
-  rotate: true
-  xy: 2, 1393
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  rotate: false
+  xy: 643, 538
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni08
-  rotate: true
-  xy: 2, 1393
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  rotate: false
+  xy: 643, 538
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni09
-  rotate: true
-  xy: 2, 1393
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  rotate: false
+  xy: 643, 538
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni10
-  rotate: true
-  xy: 2, 1393
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  rotate: false
+  xy: 643, 538
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni11
-  rotate: true
-  xy: 688, 1393
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  rotate: false
+  xy: 649, 896
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni12
   rotate: false
-  xy: 1374, 1336
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  xy: 650, 1256
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni13
-  rotate: true
-  xy: 2, 764
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  rotate: false
+  xy: 652, 1600
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni14
-  rotate: true
-  xy: 688, 764
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  rotate: false
+  xy: 958, 194
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni15
   rotate: false
-  xy: 1374, 650
-  size: 646, 684
-  orig: 800, 800
-  offset: 68, 60
+  xy: 318, 526
+  size: 323, 342
+  orig: 400, 400
+  offset: 34, 30
+  index: -1
+ChuanSongAni16
+  rotate: false
+  xy: 327, 1240
+  size: 321, 342
+  orig: 400, 400
+  offset: 36, 30
+  index: -1
+ChuanSongAni17
+  rotate: false
+  xy: 318, 182
+  size: 319, 342
+  orig: 400, 400
+  offset: 38, 30
   index: -1
 ChuanSongAni18
-  rotate: true
-  xy: 2, 135
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  rotate: false
+  xy: 959, 552
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni19
-  rotate: true
-  xy: 688, 135
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  rotate: false
+  xy: 965, 912
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni20
-  rotate: true
-  xy: 688, 135
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  rotate: false
+  xy: 965, 912
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni21
-  rotate: true
-  xy: 688, 135
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  rotate: false
+  xy: 965, 912
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni22
-  rotate: true
-  xy: 688, 135
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  rotate: false
+  xy: 965, 912
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni23
-  rotate: true
-  xy: 688, 135
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  rotate: false
+  xy: 965, 912
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni32
-  rotate: true
-  xy: 688, 135
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  rotate: false
+  xy: 965, 912
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni33
+  rotate: false
+  xy: 965, 912
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
+  index: -1
+ChuanSongAni24
+  rotate: false
+  xy: 966, 1256
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
+  index: -1
+ChuanSongAni25
+  rotate: false
+  xy: 968, 1600
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
+  index: -1
+ChuanSongAni26
+  rotate: false
+  xy: 1274, 208
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
+  index: -1
+ChuanSongAni27
+  rotate: false
+  xy: 1275, 568
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
+  index: -1
+ChuanSongAni28
+  rotate: false
+  xy: 324, 882
+  size: 323, 342
+  orig: 400, 400
+  offset: 43, 30
+  index: -1
+ChuanSongAni29
+  rotate: false
+  xy: 329, 1600
+  size: 321, 342
+  orig: 400, 400
+  offset: 43, 30
+  index: -1
+ChuanSongAni30
+  rotate: false
+  xy: 639, 182
+  size: 317, 342
+  orig: 400, 400
+  offset: 43, 30
+  index: -1
+ChuanSongAni31
+  rotate: false
+  xy: 1281, 912
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
+  index: -1
+ChuanSongAni34
+  rotate: false
+  xy: 1282, 1256
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
+  index: -1
+ChuanSongAni35
+  rotate: false
+  xy: 1284, 1600
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
+  index: -1
+ChuanSongAni36
   rotate: true
-  xy: 688, 135
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  xy: 1600, 1628
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
+  index: -1
+ChuanSongAni37
+  rotate: true
+  xy: 1600, 1312
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
+  index: -1
+ChuanSongAni38
+  rotate: true
+  xy: 1598, 996
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
+  index: -1
+ChuanSongAni39
+  rotate: true
+  xy: 1597, 680
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
+  index: -1
+ChuanSongAni40
+  rotate: true
+  xy: 1591, 364
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
+  index: -1
+ChuanSongAni41
+  rotate: true
+  xy: 1590, 48
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
+  index: -1
+ChuanSongAni68
+  rotate: false
+  xy: 2, 521
+  size: 314, 347
+  orig: 400, 400
+  offset: 43, 25
+  index: -1
+ChuanSongAni69
+  rotate: false
+  xy: 2, 1584
+  size: 325, 358
+  orig: 400, 400
+  offset: 32, 14
+  index: -1
+ChuanSongAni70
+  rotate: false
+  xy: 2, 1226
+  size: 323, 356
+  orig: 400, 400
+  offset: 34, 16
+  index: -1
+ChuanSongAni71
+  rotate: false
+  xy: 2, 870
+  size: 320, 354
+  orig: 400, 400
+  offset: 37, 18
+  index: -1
+ChuanSongAni72
+  rotate: false
+  xy: 2, 174
+  size: 314, 345
+  orig: 400, 400
+  offset: 43, 27
   index: -1
 
 skeleton2.png
@@ -178,376 +339,185 @@ size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-ChuanSongAni16
-  rotate: false
-  xy: 1374, 1332
-  size: 642, 684
-  orig: 800, 800
-  offset: 72, 60
-  index: -1
-ChuanSongAni17
-  rotate: false
-  xy: 1374, 646
-  size: 638, 684
-  orig: 800, 800
-  offset: 76, 60
-  index: -1
-ChuanSongAni24
-  rotate: true
-  xy: 2, 1389
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
-  index: -1
-ChuanSongAni25
-  rotate: true
-  xy: 688, 1389
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
-  index: -1
-ChuanSongAni26
-  rotate: true
-  xy: 2, 760
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
-  index: -1
-ChuanSongAni27
-  rotate: true
-  xy: 688, 760
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
-  index: -1
-ChuanSongAni31
-  rotate: true
-  xy: 2, 131
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
-  index: -1
-ChuanSongAni34
-  rotate: true
-  xy: 688, 131
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
-  index: -1
-
-skeleton3.png
-size: 2048,2048
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-ChuanSongAni28
-  rotate: false
-  xy: 1374, 1334
-  size: 644, 684
-  orig: 800, 800
-  offset: 87, 60
-  index: -1
-ChuanSongAni29
-  rotate: false
-  xy: 1374, 648
-  size: 641, 684
-  orig: 800, 800
-  offset: 87, 60
-  index: -1
-ChuanSongAni35
-  rotate: true
-  xy: 2, 1391
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
-  index: -1
-ChuanSongAni36
-  rotate: true
-  xy: 688, 1391
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
-  index: -1
-ChuanSongAni37
-  rotate: true
-  xy: 2, 762
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
-  index: -1
-ChuanSongAni38
-  rotate: true
-  xy: 688, 762
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
-  index: -1
-ChuanSongAni39
-  rotate: true
-  xy: 2, 133
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
-  index: -1
-ChuanSongAni40
-  rotate: true
-  xy: 688, 133
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
-  index: -1
-
-skeleton4.png
-size: 2048,2048
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-ChuanSongAni30
-  rotate: false
-  xy: 1374, 1322
-  size: 632, 684
-  orig: 800, 800
-  offset: 87, 60
-  index: -1
-ChuanSongAni41
-  rotate: true
-  xy: 2, 1379
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
-  index: -1
 ChuanSongAni42
   rotate: true
-  xy: 688, 1379
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  xy: 2, 1722
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni43
   rotate: true
-  xy: 2, 750
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  xy: 346, 1722
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni44
   rotate: true
-  xy: 688, 750
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  xy: 690, 1722
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni45
-  rotate: false
-  xy: 1374, 636
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  rotate: true
+  xy: 1034, 1722
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni46
   rotate: true
-  xy: 2, 121
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  xy: 1378, 1722
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni47
-  rotate: true
-  xy: 688, 121
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  rotate: false
+  xy: 1722, 1694
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
-
-skeleton5.png
-size: 2048,2048
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
 ChuanSongAni48
   rotate: true
-  xy: 2, 1374
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  xy: 2, 1406
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni49
   rotate: true
-  xy: 688, 1374
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  xy: 346, 1406
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni50
-  rotate: false
-  xy: 1374, 1317
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  rotate: true
+  xy: 690, 1406
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni51
   rotate: true
-  xy: 2, 745
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  xy: 1034, 1406
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni52
   rotate: true
-  xy: 688, 745
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  xy: 1378, 1406
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni53
   rotate: false
-  xy: 1374, 631
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  xy: 1722, 1350
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni54
   rotate: true
-  xy: 2, 116
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  xy: 2, 1090
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni55
   rotate: true
-  xy: 688, 116
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  xy: 346, 1090
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
-
-skeleton6.png
-size: 2048,2048
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
 ChuanSongAni56
   rotate: true
-  xy: 2, 1374
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  xy: 690, 1090
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni57
   rotate: true
-  xy: 688, 1374
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  xy: 1034, 1090
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni58
-  rotate: false
-  xy: 1374, 1317
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  rotate: true
+  xy: 1378, 1090
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni59
-  rotate: true
-  xy: 2, 745
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  rotate: false
+  xy: 1722, 1006
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni60
   rotate: true
-  xy: 688, 745
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  xy: 2, 774
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni61
-  rotate: false
-  xy: 1374, 631
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  rotate: true
+  xy: 346, 774
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni62
   rotate: true
-  xy: 2, 116
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  xy: 690, 774
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni63
   rotate: true
-  xy: 688, 116
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  xy: 1034, 774
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
-
-skeleton7.png
-size: 2048,2048
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
 ChuanSongAni64
   rotate: true
-  xy: 2, 53
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  xy: 1378, 774
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni65
-  rotate: true
-  xy: 1345, 776
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  rotate: false
+  xy: 1722, 662
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni66
   rotate: true
-  xy: 1362, 1419
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
+  xy: 2, 458
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
 ChuanSongAni67
-  rotate: false
-  xy: 1407, 90
-  size: 627, 684
-  orig: 800, 800
-  offset: 87, 60
-  index: -1
-ChuanSongAni68
-  rotate: false
-  xy: 716, 710
-  size: 627, 693
-  orig: 800, 800
-  offset: 87, 51
-  index: -1
-ChuanSongAni69
-  rotate: false
-  xy: 2, 1330
-  size: 649, 716
-  orig: 800, 800
-  offset: 65, 28
-  index: -1
-ChuanSongAni70
   rotate: true
-  xy: 2, 682
-  size: 646, 712
-  orig: 800, 800
-  offset: 68, 32
-  index: -1
-ChuanSongAni71
-  rotate: true
-  xy: 653, 1405
-  size: 641, 707
-  orig: 800, 800
-  offset: 73, 37
-  index: -1
-ChuanSongAni72
-  rotate: true
-  xy: 716, 81
-  size: 627, 689
-  orig: 800, 800
-  offset: 87, 55
+  xy: 346, 458
+  size: 314, 342
+  orig: 400, 400
+  offset: 43, 30
   index: -1
