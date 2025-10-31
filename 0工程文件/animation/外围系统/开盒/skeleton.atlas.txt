@@ -6,178 +6,178 @@ filter: Linear,Linear
 repeat: none
 KaiHe00
   rotate: true
-  xy: 2, 1646
+  xy: 2, 1621
   size: 354, 393
   orig: 540, 540
   offset: 93, 80
   index: -1
 KaiHe01
   rotate: true
-  xy: 397, 1646
+  xy: 397, 1621
   size: 354, 393
   orig: 540, 540
   offset: 93, 80
   index: -1
-KaiHe07
-  rotate: true
-  xy: 1187, 1289
-  size: 355, 393
-  orig: 540, 540
-  offset: 94, 79
-  index: -1
 KaiHe14
   rotate: true
-  xy: 792, 1646
+  xy: 792, 1621
   size: 354, 393
   orig: 540, 540
   offset: 93, 82
   index: -1
 KaiHe15
   rotate: true
-  xy: 1187, 1646
+  xy: 1187, 1621
   size: 354, 393
   orig: 540, 540
   offset: 93, 82
   index: -1
 KaiHe16
   rotate: true
-  xy: 1582, 1646
+  xy: 1582, 1621
   size: 354, 393
   orig: 540, 540
   offset: 93, 82
   index: -1
 KaiHe17
   rotate: true
-  xy: 2, 1290
+  xy: 2, 1265
   size: 354, 393
   orig: 540, 540
   offset: 93, 82
   index: -1
 KaiHe18
   rotate: true
-  xy: 397, 1290
+  xy: 397, 1265
   size: 354, 393
   orig: 540, 540
   offset: 93, 82
   index: -1
 KaiHe19
   rotate: true
-  xy: 792, 1290
+  xy: 792, 1265
   size: 354, 393
   orig: 540, 540
   offset: 93, 82
   index: -1
-KaiHe20
+KaiHe_Hong00
   rotate: true
-  xy: 1582, 1286
-  size: 358, 394
+  xy: 1187, 1265
+  size: 354, 393
   orig: 540, 540
-  offset: 85, 76
+  offset: 93, 80
   index: -1
-KaiHe31
-  rotate: false
-  xy: 2, 929
-  size: 398, 359
+KaiHe_Hong01
+  rotate: true
+  xy: 1582, 1265
+  size: 354, 393
   orig: 540, 540
-  offset: 38, 79
+  offset: 93, 80
   index: -1
-KaiHe32
-  rotate: false
-  xy: 402, 929
-  size: 398, 359
+KaiHe_Hong14
+  rotate: true
+  xy: 2, 909
+  size: 354, 393
   orig: 540, 540
-  offset: 38, 79
+  offset: 93, 82
   index: -1
-KaiHe33
-  rotate: false
-  xy: 802, 928
-  size: 398, 359
+KaiHe_Hong15
+  rotate: true
+  xy: 397, 909
+  size: 354, 393
   orig: 540, 540
-  offset: 38, 79
+  offset: 93, 82
   index: -1
-KaiHe34
-  rotate: false
-  xy: 1202, 925
-  size: 398, 359
+KaiHe_Hong16
+  rotate: true
+  xy: 792, 909
+  size: 354, 393
   orig: 540, 540
-  offset: 38, 79
+  offset: 93, 82
   index: -1
-KaiHe35
-  rotate: false
-  xy: 1602, 925
-  size: 398, 359
+KaiHe_Hong17
+  rotate: true
+  xy: 1187, 909
+  size: 354, 393
   orig: 540, 540
-  offset: 38, 79
+  offset: 93, 82
   index: -1
-KaiHe36
-  rotate: false
-  xy: 2, 568
-  size: 398, 359
+KaiHe_Hong18
+  rotate: true
+  xy: 1582, 909
+  size: 354, 393
   orig: 540, 540
-  offset: 38, 79
+  offset: 93, 82
   index: -1
-KaiHe37
-  rotate: false
-  xy: 402, 568
-  size: 398, 359
+KaiHe_Hong19
+  rotate: true
+  xy: 2, 553
+  size: 354, 393
   orig: 540, 540
-  offset: 38, 79
+  offset: 93, 82
   index: -1
-KaiHe38
-  rotate: false
-  xy: 802, 567
-  size: 398, 359
+KaiHe_Jin00
+  rotate: true
+  xy: 397, 553
+  size: 354, 393
   orig: 540, 540
-  offset: 38, 79
+  offset: 93, 80
   index: -1
-KaiHe39
-  rotate: false
-  xy: 1202, 564
-  size: 398, 359
+KaiHe_Jin01
+  rotate: true
+  xy: 792, 553
+  size: 354, 393
   orig: 540, 540
-  offset: 38, 79
+  offset: 93, 80
   index: -1
-KaiHe40
-  rotate: false
-  xy: 1602, 564
-  size: 398, 359
+KaiHe_Jin14
+  rotate: true
+  xy: 1187, 553
+  size: 354, 393
   orig: 540, 540
-  offset: 38, 79
+  offset: 93, 82
   index: -1
-KaiHe41
-  rotate: false
-  xy: 2, 207
-  size: 398, 359
+KaiHe_Jin15
+  rotate: true
+  xy: 1582, 553
+  size: 354, 393
   orig: 540, 540
-  offset: 38, 79
+  offset: 93, 82
   index: -1
-KaiHe42
-  rotate: false
-  xy: 402, 207
-  size: 398, 359
+KaiHe_Jin16
+  rotate: true
+  xy: 2, 197
+  size: 354, 393
   orig: 540, 540
-  offset: 38, 79
+  offset: 93, 82
   index: -1
-KaiHe43
-  rotate: false
-  xy: 802, 206
-  size: 398, 359
+KaiHe_Jin17
+  rotate: true
+  xy: 397, 197
+  size: 354, 393
   orig: 540, 540
-  offset: 38, 79
+  offset: 93, 82
   index: -1
-KaiHe44
-  rotate: false
-  xy: 1202, 203
-  size: 398, 359
+KaiHe_Jin18
+  rotate: true
+  xy: 792, 197
+  size: 354, 393
   orig: 540, 540
-  offset: 38, 79
+  offset: 93, 82
   index: -1
-KaiHe45
-  rotate: false
-  xy: 1602, 203
-  size: 398, 359
+KaiHe_Jin19
+  rotate: true
+  xy: 1187, 197
+  size: 354, 393
   orig: 540, 540
-  offset: 38, 79
+  offset: 93, 82
+  index: -1
+KaiHe_Lan00
+  rotate: true
+  xy: 1582, 197
+  size: 354, 393
+  orig: 540, 540
+  offset: 93, 80
   index: -1
 
 skeleton2.png
@@ -185,171 +185,1597 @@ size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-KaiHe02
+KaiHe07
   rotate: true
-  xy: 1202, 1664
-  size: 361, 389
+  xy: 2, 557
+  size: 355, 393
   orig: 540, 540
-  offset: 97, 81
+  offset: 94, 79
   index: -1
-KaiHe03
-  rotate: false
-  xy: 389, 547
-  size: 380, 379
-  orig: 540, 540
-  offset: 82, 85
-  index: -1
-KaiHe04
+KaiHe20
   rotate: true
-  xy: 2, 929
-  size: 372, 385
+  xy: 2, 197
+  size: 358, 394
   orig: 540, 540
-  offset: 88, 82
+  offset: 85, 76
   index: -1
-KaiHe05
+KaiHe_Hong07
   rotate: true
-  xy: 389, 928
-  size: 372, 385
+  xy: 397, 557
+  size: 355, 393
   orig: 540, 540
-  offset: 88, 82
+  offset: 94, 79
   index: -1
-KaiHe06
+KaiHe_Hong20
   rotate: true
-  xy: 797, 1301
-  size: 363, 389
+  xy: 398, 197
+  size: 358, 394
   orig: 540, 540
-  offset: 97, 79
+  offset: 85, 76
   index: -1
-KaiHe08
+KaiHe_Jin07
   rotate: true
-  xy: 776, 924
-  size: 375, 387
+  xy: 792, 557
+  size: 355, 393
   orig: 540, 540
-  offset: 84, 84
+  offset: 94, 79
   index: -1
-KaiHe09
+KaiHe_Jin20
   rotate: true
-  xy: 1580, 918
-  size: 375, 387
+  xy: 794, 197
+  size: 358, 394
   orig: 540, 540
-  offset: 84, 84
+  offset: 85, 76
   index: -1
-KaiHe10
-  rotate: false
-  xy: 771, 542
-  size: 384, 380
-  orig: 540, 540
-  offset: 80, 87
-  index: -1
-KaiHe11
+KaiHe_Lan01
   rotate: true
-  xy: 2, 549
-  size: 378, 385
+  xy: 2, 1626
+  size: 354, 393
   orig: 540, 540
-  offset: 80, 85
+  offset: 93, 80
   index: -1
-KaiHe12
+KaiHe_Lan07
   rotate: true
-  xy: 1593, 1664
-  size: 361, 391
+  xy: 1187, 557
+  size: 355, 393
   orig: 540, 540
-  offset: 85, 83
+  offset: 94, 79
   index: -1
-KaiHe13
+KaiHe_Lan14
   rotate: true
-  xy: 2, 1303
-  size: 361, 391
+  xy: 397, 1626
+  size: 354, 393
   orig: 540, 540
-  offset: 85, 83
+  offset: 93, 82
   index: -1
+KaiHe_Lan15
+  rotate: true
+  xy: 792, 1626
+  size: 354, 393
+  orig: 540, 540
+  offset: 93, 82
+  index: -1
+KaiHe_Lan16
+  rotate: true
+  xy: 1187, 1626
+  size: 354, 393
+  orig: 540, 540
+  offset: 93, 82
+  index: -1
+KaiHe_Lan17
+  rotate: true
+  xy: 1582, 1626
+  size: 354, 393
+  orig: 540, 540
+  offset: 93, 82
+  index: -1
+KaiHe_Lan18
+  rotate: true
+  xy: 2, 1270
+  size: 354, 393
+  orig: 540, 540
+  offset: 93, 82
+  index: -1
+KaiHe_Lan19
+  rotate: true
+  xy: 397, 1270
+  size: 354, 393
+  orig: 540, 540
+  offset: 93, 82
+  index: -1
+KaiHe_Lan20
+  rotate: true
+  xy: 1190, 197
+  size: 358, 394
+  orig: 540, 540
+  offset: 85, 76
+  index: -1
+KaiHe_Lv00
+  rotate: true
+  xy: 792, 1270
+  size: 354, 393
+  orig: 540, 540
+  offset: 93, 80
+  index: -1
+KaiHe_Lv01
+  rotate: true
+  xy: 1187, 1270
+  size: 354, 393
+  orig: 540, 540
+  offset: 93, 80
+  index: -1
+KaiHe_Lv07
+  rotate: true
+  xy: 1582, 557
+  size: 355, 393
+  orig: 540, 540
+  offset: 94, 79
+  index: -1
+KaiHe_Lv14
+  rotate: true
+  xy: 1582, 1270
+  size: 354, 393
+  orig: 540, 540
+  offset: 93, 82
+  index: -1
+KaiHe_Lv15
+  rotate: true
+  xy: 2, 914
+  size: 354, 393
+  orig: 540, 540
+  offset: 93, 82
+  index: -1
+KaiHe_Lv16
+  rotate: true
+  xy: 397, 914
+  size: 354, 393
+  orig: 540, 540
+  offset: 93, 82
+  index: -1
+KaiHe_Lv17
+  rotate: true
+  xy: 792, 914
+  size: 354, 393
+  orig: 540, 540
+  offset: 93, 82
+  index: -1
+KaiHe_Lv18
+  rotate: true
+  xy: 1187, 914
+  size: 354, 393
+  orig: 540, 540
+  offset: 93, 82
+  index: -1
+KaiHe_Lv19
+  rotate: true
+  xy: 1582, 914
+  size: 354, 393
+  orig: 540, 540
+  offset: 93, 82
+  index: -1
+KaiHe_Lv20
+  rotate: true
+  xy: 1586, 197
+  size: 358, 394
+  orig: 540, 540
+  offset: 85, 76
+  index: -1
+
+skeleton3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
 KaiHe21
-  rotate: true
-  xy: 1596, 1295
+  rotate: false
+  xy: 1679, 815
   size: 367, 401
   orig: 540, 540
   offset: 73, 70
   index: -1
-KaiHe22
-  rotate: true
-  xy: 2, 148
-  size: 397, 406
-  orig: 540, 540
-  offset: 51, 63
-  index: -1
 KaiHe23
-  rotate: true
-  xy: 410, 134
+  rotate: false
+  xy: 824, 349
   size: 406, 420
   orig: 540, 540
   offset: 45, 56
   index: -1
 KaiHe24
-  rotate: false
-  xy: 1267, 100
+  rotate: true
+  xy: 441, 1615
   size: 431, 418
   orig: 540, 540
   offset: 25, 53
   index: -1
 KaiHe25
-  rotate: false
-  xy: 832, 116
+  rotate: true
+  xy: 422, 782
   size: 433, 409
   orig: 540, 540
   offset: 21, 55
   index: -1
 KaiHe26
   rotate: false
-  xy: 1588, 520
+  xy: 2, 1650
   size: 437, 396
   orig: 540, 540
   offset: 15, 59
   index: -1
 KaiHe27
-  rotate: false
-  xy: 1157, 527
+  rotate: true
+  xy: 1654, 316
   size: 429, 389
   orig: 540, 540
   offset: 20, 63
   index: -1
-KaiHe28
-  rotate: false
-  xy: 1165, 920
-  size: 413, 374
+KaiHe_Hong23
+  rotate: true
+  xy: 1232, 339
+  size: 406, 420
   orig: 540, 540
-  offset: 29, 71
+  offset: 45, 56
   index: -1
-KaiHe29
-  rotate: false
-  xy: 1188, 1296
-  size: 406, 366
+KaiHe_Hong24
+  rotate: true
+  xy: 2, 1217
+  size: 431, 418
   orig: 540, 540
-  offset: 33, 75
+  offset: 25, 53
   index: -1
-KaiHe30
-  rotate: false
-  xy: 395, 1302
-  size: 400, 362
+KaiHe_Hong25
+  rotate: true
+  xy: 2, 349
+  size: 433, 409
   orig: 540, 540
-  offset: 37, 77
+  offset: 21, 55
+  index: -1
+KaiHe_Hong26
+  rotate: false
+  xy: 422, 1217
+  size: 437, 396
+  orig: 540, 540
+  offset: 15, 59
+  index: -1
+KaiHe_Jin23
+  rotate: false
+  xy: 1281, 1626
+  size: 406, 420
+  orig: 540, 540
+  offset: 45, 56
+  index: -1
+KaiHe_Jin24
+  rotate: true
+  xy: 861, 1615
+  size: 431, 418
+  orig: 540, 540
+  offset: 25, 53
+  index: -1
+KaiHe_Jin25
+  rotate: false
+  xy: 833, 771
+  size: 433, 409
+  orig: 540, 540
+  offset: 21, 55
+  index: -1
+KaiHe_Lan23
+  rotate: true
+  xy: 1281, 1218
+  size: 406, 420
+  orig: 540, 540
+  offset: 45, 56
+  index: -1
+KaiHe_Lan24
+  rotate: true
+  xy: 861, 1182
+  size: 431, 418
+  orig: 540, 540
+  offset: 25, 53
+  index: -1
+KaiHe_Lan25
+  rotate: true
+  xy: 413, 347
+  size: 433, 409
+  orig: 540, 540
+  offset: 21, 55
+  index: -1
+KaiHe_Lv24
+  rotate: true
+  xy: 2, 784
+  size: 431, 418
+  orig: 540, 540
+  offset: 25, 53
+  index: -1
+KaiHe_Lv25
+  rotate: true
+  xy: 1268, 747
+  size: 433, 409
+  orig: 540, 540
+  offset: 21, 55
+  index: -1
+
+skeleton4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KaiHe31
+  rotate: false
+  xy: 2, 1641
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe32
+  rotate: false
+  xy: 402, 1641
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe33
+  rotate: false
+  xy: 802, 1641
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe34
+  rotate: false
+  xy: 1202, 1641
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe35
+  rotate: false
+  xy: 1602, 1641
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe36
+  rotate: false
+  xy: 2, 1280
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe37
+  rotate: false
+  xy: 402, 1280
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe38
+  rotate: false
+  xy: 802, 1280
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe39
+  rotate: false
+  xy: 1202, 1280
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe40
+  rotate: false
+  xy: 1602, 1280
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe41
+  rotate: false
+  xy: 2, 919
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe42
+  rotate: false
+  xy: 402, 919
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe43
+  rotate: false
+  xy: 802, 919
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe44
+  rotate: false
+  xy: 1202, 919
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe45
+  rotate: false
+  xy: 1602, 919
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
   index: -1
 KaiHe46
   rotate: false
-  xy: 2, 1666
+  xy: 2, 558
   size: 398, 359
   orig: 540, 540
   offset: 38, 79
   index: -1
 KaiHe47
   rotate: false
-  xy: 402, 1666
+  xy: 402, 558
   size: 398, 359
   orig: 540, 540
   offset: 38, 79
   index: -1
 KaiHe48
   rotate: false
-  xy: 802, 1666
+  xy: 802, 558
   size: 398, 359
   orig: 540, 540
   offset: 38, 79
+  index: -1
+KaiHe_Hong31
+  rotate: false
+  xy: 1202, 558
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Hong32
+  rotate: false
+  xy: 1602, 558
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Hong33
+  rotate: false
+  xy: 2, 197
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Hong34
+  rotate: false
+  xy: 402, 197
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Hong35
+  rotate: false
+  xy: 802, 197
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Hong36
+  rotate: false
+  xy: 1202, 197
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Hong37
+  rotate: false
+  xy: 1602, 197
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+
+skeleton5.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KaiHe_Hong38
+  rotate: false
+  xy: 2, 1641
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Hong39
+  rotate: false
+  xy: 402, 1641
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Hong40
+  rotate: false
+  xy: 802, 1641
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Hong41
+  rotate: false
+  xy: 1202, 1641
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Hong42
+  rotate: false
+  xy: 1602, 1641
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Hong43
+  rotate: false
+  xy: 2, 1280
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Hong44
+  rotate: false
+  xy: 402, 1280
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Hong45
+  rotate: false
+  xy: 802, 1280
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Hong46
+  rotate: false
+  xy: 1202, 1280
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Hong47
+  rotate: false
+  xy: 1602, 1280
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Hong48
+  rotate: false
+  xy: 2, 919
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Jin31
+  rotate: false
+  xy: 402, 919
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Jin32
+  rotate: false
+  xy: 802, 919
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Jin33
+  rotate: false
+  xy: 1202, 919
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Jin34
+  rotate: false
+  xy: 1602, 919
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Jin35
+  rotate: false
+  xy: 2, 558
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Jin36
+  rotate: false
+  xy: 402, 558
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Jin37
+  rotate: false
+  xy: 802, 558
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Jin38
+  rotate: false
+  xy: 1202, 558
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Jin39
+  rotate: false
+  xy: 1602, 558
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Jin40
+  rotate: false
+  xy: 2, 197
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Jin41
+  rotate: false
+  xy: 402, 197
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Jin42
+  rotate: false
+  xy: 802, 197
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Jin43
+  rotate: false
+  xy: 1202, 197
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Jin44
+  rotate: false
+  xy: 1602, 197
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+
+skeleton6.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KaiHe_Jin45
+  rotate: false
+  xy: 2, 1641
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Jin46
+  rotate: false
+  xy: 402, 1641
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Jin47
+  rotate: false
+  xy: 802, 1641
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Jin48
+  rotate: false
+  xy: 1202, 1641
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Lan31
+  rotate: false
+  xy: 1602, 1641
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Lan32
+  rotate: false
+  xy: 2, 1280
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Lan33
+  rotate: false
+  xy: 402, 1280
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Lan34
+  rotate: false
+  xy: 802, 1280
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Lan35
+  rotate: false
+  xy: 1202, 1280
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Lan36
+  rotate: false
+  xy: 1602, 1280
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Lan37
+  rotate: false
+  xy: 2, 919
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Lan38
+  rotate: false
+  xy: 402, 919
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Lan39
+  rotate: false
+  xy: 802, 919
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Lan40
+  rotate: false
+  xy: 1202, 919
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Lan41
+  rotate: false
+  xy: 1602, 919
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Lan42
+  rotate: false
+  xy: 2, 558
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Lan43
+  rotate: false
+  xy: 402, 558
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Lan44
+  rotate: false
+  xy: 802, 558
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Lan45
+  rotate: false
+  xy: 1202, 558
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Lan46
+  rotate: false
+  xy: 1602, 558
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Lan47
+  rotate: false
+  xy: 2, 197
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Lan48
+  rotate: false
+  xy: 402, 197
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Lv31
+  rotate: false
+  xy: 802, 197
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Lv32
+  rotate: false
+  xy: 1202, 197
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Lv33
+  rotate: false
+  xy: 1602, 197
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+
+skeleton7.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KaiHe02
+  rotate: true
+  xy: 2, 556
+  size: 361, 389
+  orig: 540, 540
+  offset: 97, 81
+  index: -1
+KaiHe12
+  rotate: true
+  xy: 393, 556
+  size: 361, 391
+  orig: 540, 540
+  offset: 85, 83
+  index: -1
+KaiHe13
+  rotate: true
+  xy: 786, 556
+  size: 361, 391
+  orig: 540, 540
+  offset: 85, 83
+  index: -1
+KaiHe_Hong02
+  rotate: true
+  xy: 1179, 556
+  size: 361, 389
+  orig: 540, 540
+  offset: 97, 81
+  index: -1
+KaiHe_Hong12
+  rotate: true
+  xy: 1570, 556
+  size: 361, 391
+  orig: 540, 540
+  offset: 85, 83
+  index: -1
+KaiHe_Hong13
+  rotate: true
+  xy: 2, 193
+  size: 361, 391
+  orig: 540, 540
+  offset: 85, 83
+  index: -1
+KaiHe_Jin02
+  rotate: true
+  xy: 395, 193
+  size: 361, 389
+  orig: 540, 540
+  offset: 97, 81
+  index: -1
+KaiHe_Jin12
+  rotate: true
+  xy: 786, 193
+  size: 361, 391
+  orig: 540, 540
+  offset: 85, 83
+  index: -1
+KaiHe_Jin13
+  rotate: true
+  xy: 1179, 193
+  size: 361, 391
+  orig: 540, 540
+  offset: 85, 83
+  index: -1
+KaiHe_Lan02
+  rotate: true
+  xy: 1572, 193
+  size: 361, 389
+  orig: 540, 540
+  offset: 97, 81
+  index: -1
+KaiHe_Lv34
+  rotate: false
+  xy: 2, 1641
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Lv35
+  rotate: false
+  xy: 402, 1641
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Lv36
+  rotate: false
+  xy: 802, 1641
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Lv37
+  rotate: false
+  xy: 1202, 1641
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Lv38
+  rotate: false
+  xy: 1602, 1641
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Lv39
+  rotate: false
+  xy: 2, 1280
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Lv40
+  rotate: false
+  xy: 402, 1280
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Lv41
+  rotate: false
+  xy: 802, 1280
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Lv42
+  rotate: false
+  xy: 1202, 1280
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Lv43
+  rotate: false
+  xy: 1602, 1280
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Lv44
+  rotate: false
+  xy: 2, 919
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Lv45
+  rotate: false
+  xy: 402, 919
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Lv46
+  rotate: false
+  xy: 802, 919
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Lv47
+  rotate: false
+  xy: 1202, 919
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+KaiHe_Lv48
+  rotate: false
+  xy: 1602, 919
+  size: 398, 359
+  orig: 540, 540
+  offset: 38, 79
+  index: -1
+
+skeleton8.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KaiHe04
+  rotate: true
+  xy: 1614, 208
+  size: 372, 385
+  orig: 540, 540
+  offset: 88, 82
+  index: -1
+KaiHe06
+  rotate: true
+  xy: 2, 950
+  size: 363, 389
+  orig: 540, 540
+  offset: 97, 79
+  index: -1
+KaiHe29
+  rotate: false
+  xy: 2, 582
+  size: 406, 366
+  orig: 540, 540
+  offset: 33, 75
+  index: -1
+KaiHe30
+  rotate: false
+  xy: 2, 1315
+  size: 400, 362
+  orig: 540, 540
+  offset: 37, 77
+  index: -1
+KaiHe_Hong06
+  rotate: true
+  xy: 393, 950
+  size: 363, 389
+  orig: 540, 540
+  offset: 97, 79
+  index: -1
+KaiHe_Hong21
+  rotate: true
+  xy: 2, 213
+  size: 367, 401
+  orig: 540, 540
+  offset: 73, 70
+  index: -1
+KaiHe_Hong29
+  rotate: false
+  xy: 410, 582
+  size: 406, 366
+  orig: 540, 540
+  offset: 33, 75
+  index: -1
+KaiHe_Hong30
+  rotate: false
+  xy: 404, 1315
+  size: 400, 362
+  orig: 540, 540
+  offset: 37, 77
+  index: -1
+KaiHe_Jin06
+  rotate: true
+  xy: 784, 950
+  size: 363, 389
+  orig: 540, 540
+  offset: 97, 79
+  index: -1
+KaiHe_Jin21
+  rotate: true
+  xy: 405, 213
+  size: 367, 401
+  orig: 540, 540
+  offset: 73, 70
+  index: -1
+KaiHe_Jin29
+  rotate: false
+  xy: 818, 582
+  size: 406, 366
+  orig: 540, 540
+  offset: 33, 75
+  index: -1
+KaiHe_Jin30
+  rotate: false
+  xy: 806, 1315
+  size: 400, 362
+  orig: 540, 540
+  offset: 37, 77
+  index: -1
+KaiHe_Lan06
+  rotate: true
+  xy: 1175, 950
+  size: 363, 389
+  orig: 540, 540
+  offset: 97, 79
+  index: -1
+KaiHe_Lan12
+  rotate: true
+  xy: 2, 1679
+  size: 361, 391
+  orig: 540, 540
+  offset: 85, 83
+  index: -1
+KaiHe_Lan13
+  rotate: true
+  xy: 395, 1679
+  size: 361, 391
+  orig: 540, 540
+  offset: 85, 83
+  index: -1
+KaiHe_Lan21
+  rotate: true
+  xy: 808, 213
+  size: 367, 401
+  orig: 540, 540
+  offset: 73, 70
+  index: -1
+KaiHe_Lan29
+  rotate: false
+  xy: 1226, 582
+  size: 406, 366
+  orig: 540, 540
+  offset: 33, 75
+  index: -1
+KaiHe_Lan30
+  rotate: false
+  xy: 1208, 1315
+  size: 400, 362
+  orig: 540, 540
+  offset: 37, 77
+  index: -1
+KaiHe_Lv02
+  rotate: true
+  xy: 788, 1679
+  size: 361, 389
+  orig: 540, 540
+  offset: 97, 81
+  index: -1
+KaiHe_Lv06
+  rotate: true
+  xy: 1566, 950
+  size: 363, 389
+  orig: 540, 540
+  offset: 97, 79
+  index: -1
+KaiHe_Lv12
+  rotate: true
+  xy: 1179, 1679
+  size: 361, 391
+  orig: 540, 540
+  offset: 85, 83
+  index: -1
+KaiHe_Lv13
+  rotate: true
+  xy: 1572, 1679
+  size: 361, 391
+  orig: 540, 540
+  offset: 85, 83
+  index: -1
+KaiHe_Lv21
+  rotate: true
+  xy: 1211, 213
+  size: 367, 401
+  orig: 540, 540
+  offset: 73, 70
+  index: -1
+KaiHe_Lv29
+  rotate: false
+  xy: 1634, 582
+  size: 406, 366
+  orig: 540, 540
+  offset: 33, 75
+  index: -1
+KaiHe_Lv30
+  rotate: false
+  xy: 1610, 1315
+  size: 400, 362
+  orig: 540, 540
+  offset: 37, 77
+  index: -1
+
+skeleton9.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KaiHe03
+  rotate: false
+  xy: 1662, 913
+  size: 380, 379
+  orig: 540, 540
+  offset: 82, 85
+  index: -1
+KaiHe05
+  rotate: true
+  xy: 2, 1670
+  size: 372, 385
+  orig: 540, 540
+  offset: 88, 82
+  index: -1
+KaiHe08
+  rotate: true
+  xy: 2, 543
+  size: 375, 387
+  orig: 540, 540
+  offset: 84, 84
+  index: -1
+KaiHe09
+  rotate: true
+  xy: 391, 543
+  size: 375, 387
+  orig: 540, 540
+  offset: 84, 84
+  index: -1
+KaiHe28
+  rotate: false
+  xy: 1550, 1294
+  size: 413, 374
+  orig: 540, 540
+  offset: 29, 71
+  index: -1
+KaiHe_Hong04
+  rotate: true
+  xy: 389, 1670
+  size: 372, 385
+  orig: 540, 540
+  offset: 88, 82
+  index: -1
+KaiHe_Hong05
+  rotate: true
+  xy: 776, 1670
+  size: 372, 385
+  orig: 540, 540
+  offset: 88, 82
+  index: -1
+KaiHe_Hong08
+  rotate: true
+  xy: 780, 543
+  size: 375, 387
+  orig: 540, 540
+  offset: 84, 84
+  index: -1
+KaiHe_Hong09
+  rotate: true
+  xy: 1169, 541
+  size: 375, 387
+  orig: 540, 540
+  offset: 84, 84
+  index: -1
+KaiHe_Hong28
+  rotate: false
+  xy: 2, 920
+  size: 413, 374
+  orig: 540, 540
+  offset: 29, 71
+  index: -1
+KaiHe_Jin04
+  rotate: true
+  xy: 1163, 1670
+  size: 372, 385
+  orig: 540, 540
+  offset: 88, 82
+  index: -1
+KaiHe_Jin05
+  rotate: true
+  xy: 1550, 1670
+  size: 372, 385
+  orig: 540, 540
+  offset: 88, 82
+  index: -1
+KaiHe_Jin08
+  rotate: true
+  xy: 1558, 536
+  size: 375, 387
+  orig: 540, 540
+  offset: 84, 84
+  index: -1
+KaiHe_Jin09
+  rotate: true
+  xy: 2, 166
+  size: 375, 387
+  orig: 540, 540
+  offset: 84, 84
+  index: -1
+KaiHe_Jin28
+  rotate: false
+  xy: 417, 920
+  size: 413, 374
+  orig: 540, 540
+  offset: 29, 71
+  index: -1
+KaiHe_Lan04
+  rotate: true
+  xy: 2, 1296
+  size: 372, 385
+  orig: 540, 540
+  offset: 88, 82
+  index: -1
+KaiHe_Lan05
+  rotate: true
+  xy: 389, 1296
+  size: 372, 385
+  orig: 540, 540
+  offset: 88, 82
+  index: -1
+KaiHe_Lan08
+  rotate: true
+  xy: 391, 166
+  size: 375, 387
+  orig: 540, 540
+  offset: 84, 84
+  index: -1
+KaiHe_Lan09
+  rotate: true
+  xy: 780, 166
+  size: 375, 387
+  orig: 540, 540
+  offset: 84, 84
+  index: -1
+KaiHe_Lan28
+  rotate: false
+  xy: 832, 920
+  size: 413, 374
+  orig: 540, 540
+  offset: 29, 71
+  index: -1
+KaiHe_Lv04
+  rotate: true
+  xy: 776, 1296
+  size: 372, 385
+  orig: 540, 540
+  offset: 88, 82
+  index: -1
+KaiHe_Lv05
+  rotate: true
+  xy: 1163, 1296
+  size: 372, 385
+  orig: 540, 540
+  offset: 88, 82
+  index: -1
+KaiHe_Lv08
+  rotate: true
+  xy: 1169, 164
+  size: 375, 387
+  orig: 540, 540
+  offset: 84, 84
+  index: -1
+KaiHe_Lv09
+  rotate: true
+  xy: 1558, 159
+  size: 375, 387
+  orig: 540, 540
+  offset: 84, 84
+  index: -1
+KaiHe_Lv28
+  rotate: false
+  xy: 1247, 918
+  size: 413, 374
+  orig: 540, 540
+  offset: 29, 71
+  index: -1
+
+skeleton10.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KaiHe10
+  rotate: false
+  xy: 1530, 1215
+  size: 384, 380
+  orig: 540, 540
+  offset: 80, 87
+  index: -1
+KaiHe11
+  rotate: true
+  xy: 2, 1597
+  size: 378, 385
+  orig: 540, 540
+  offset: 80, 85
+  index: -1
+KaiHe22
+  rotate: true
+  xy: 441, 44
+  size: 397, 406
+  orig: 540, 540
+  offset: 51, 63
+  index: -1
+KaiHe_Hong03
+  rotate: false
+  xy: 2, 1216
+  size: 380, 379
+  orig: 540, 540
+  offset: 82, 85
+  index: -1
+KaiHe_Hong10
+  rotate: false
+  xy: 2, 834
+  size: 384, 380
+  orig: 540, 540
+  offset: 80, 87
+  index: -1
+KaiHe_Hong11
+  rotate: true
+  xy: 389, 1597
+  size: 378, 385
+  orig: 540, 540
+  offset: 80, 85
+  index: -1
+KaiHe_Hong22
+  rotate: true
+  xy: 1288, 27
+  size: 397, 406
+  orig: 540, 540
+  offset: 51, 63
+  index: -1
+KaiHe_Hong27
+  rotate: false
+  xy: 1546, 824
+  size: 429, 389
+  orig: 540, 540
+  offset: 20, 63
+  index: -1
+KaiHe_Jin03
+  rotate: false
+  xy: 384, 1216
+  size: 380, 379
+  orig: 540, 540
+  offset: 82, 85
+  index: -1
+KaiHe_Jin10
+  rotate: false
+  xy: 388, 834
+  size: 384, 380
+  orig: 540, 540
+  offset: 80, 87
+  index: -1
+KaiHe_Jin11
+  rotate: true
+  xy: 776, 1597
+  size: 378, 385
+  orig: 540, 540
+  offset: 80, 85
+  index: -1
+KaiHe_Jin26
+  rotate: false
+  xy: 1295, 426
+  size: 437, 396
+  orig: 540, 540
+  offset: 15, 59
+  index: -1
+KaiHe_Jin27
+  rotate: false
+  xy: 2, 443
+  size: 429, 389
+  orig: 540, 540
+  offset: 20, 63
+  index: -1
+KaiHe_Lan03
+  rotate: false
+  xy: 766, 1216
+  size: 380, 379
+  orig: 540, 540
+  offset: 82, 85
+  index: -1
+KaiHe_Lan10
+  rotate: false
+  xy: 774, 834
+  size: 384, 380
+  orig: 540, 540
+  offset: 80, 87
+  index: -1
+KaiHe_Lan11
+  rotate: true
+  xy: 1163, 1597
+  size: 378, 385
+  orig: 540, 540
+  offset: 80, 85
+  index: -1
+KaiHe_Lan26
+  rotate: false
+  xy: 2, 45
+  size: 437, 396
+  orig: 540, 540
+  offset: 15, 59
+  index: -1
+KaiHe_Lan27
+  rotate: false
+  xy: 433, 443
+  size: 429, 389
+  orig: 540, 540
+  offset: 20, 63
+  index: -1
+KaiHe_Lv03
+  rotate: false
+  xy: 1148, 1216
+  size: 380, 379
+  orig: 540, 540
+  offset: 82, 85
+  index: -1
+KaiHe_Lv10
+  rotate: false
+  xy: 1160, 833
+  size: 384, 380
+  orig: 540, 540
+  offset: 80, 87
+  index: -1
+KaiHe_Lv11
+  rotate: true
+  xy: 1550, 1597
+  size: 378, 385
+  orig: 540, 540
+  offset: 80, 85
+  index: -1
+KaiHe_Lv26
+  rotate: false
+  xy: 849, 44
+  size: 437, 396
+  orig: 540, 540
+  offset: 15, 59
+  index: -1
+KaiHe_Lv27
+  rotate: false
+  xy: 864, 442
+  size: 429, 389
+  orig: 540, 540
+  offset: 20, 63
+  index: -1
+
+skeleton11.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KaiHe_Jin22
+  rotate: true
+  xy: 2, 2
+  size: 397, 406
+  orig: 540, 540
+  offset: 51, 63
+  index: -1
+KaiHe_Lan22
+  rotate: false
+  xy: 410, 415
+  size: 397, 406
+  orig: 540, 540
+  offset: 51, 63
+  index: -1
+KaiHe_Lv22
+  rotate: false
+  xy: 410, 7
+  size: 397, 406
+  orig: 540, 540
+  offset: 51, 63
+  index: -1
+KaiHe_Lv23
+  rotate: false
+  xy: 2, 401
+  size: 406, 420
+  orig: 540, 540
+  offset: 45, 56
   index: -1
