@@ -1,0 +1,13 @@
+
+mangHe_blue.png
+size: 139,112
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue
+  rotate: false
+  xy: 2, 2
+  size: 135, 108
+  orig: 135, 108
+  offset: 0, 0
+  index: -1

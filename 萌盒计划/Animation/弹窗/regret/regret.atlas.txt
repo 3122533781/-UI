@@ -1,0 +1,27 @@
+
+regret.png
+size: 654,66
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+regret_1
+  rotate: true
+  xy: 2, 7
+  size: 57, 154
+  orig: 57, 154
+  offset: 0, 0
+  index: -1
+regret_2
+  rotate: true
+  xy: 158, 5
+  size: 59, 208
+  orig: 59, 208
+  offset: 0, 0
+  index: -1
+regret_3
+  rotate: true
+  xy: 368, 2
+  size: 62, 284
+  orig: 62, 284
+  offset: 0, 0
+  index: -1
