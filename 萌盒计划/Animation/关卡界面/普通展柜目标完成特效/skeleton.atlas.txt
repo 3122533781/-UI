@@ -1,0 +1,111 @@
+
+skeleton.png
+size: 1944,1757
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhanGuiWanChengTeXiao_1
+  rotate: true
+  xy: 1029, 2
+  size: 194, 188
+  orig: 1920, 1080
+  offset: 863, 179
+  index: -1
+zhanGuiWanChengTeXiao_10
+  rotate: true
+  xy: 1272, 619
+  size: 476, 425
+  orig: 1920, 1080
+  offset: 717, 268
+  index: -1
+zhanGuiWanChengTeXiao_11
+  rotate: false
+  xy: 763, 644
+  size: 507, 451
+  orig: 1920, 1080
+  offset: 702, 279
+  index: -1
+zhanGuiWanChengTeXiao_12
+  rotate: false
+  xy: 1358, 1135
+  size: 567, 620
+  orig: 1920, 1080
+  offset: 688, 146
+  index: -1
+zhanGuiWanChengTeXiao_13
+  rotate: false
+  xy: 763, 1097
+  size: 593, 658
+  orig: 1920, 1080
+  offset: 677, 145
+  index: -1
+zhanGuiWanChengTeXiao_14
+  rotate: false
+  xy: 2, 329
+  size: 721, 691
+  orig: 1920, 1080
+  offset: 565, 145
+  index: -1
+zhanGuiWanChengTeXiao_15
+  rotate: false
+  xy: 2, 1022
+  size: 759, 733
+  orig: 1920, 1080
+  offset: 543, 139
+  index: -1
+zhanGuiWanChengTeXiao_2
+  rotate: false
+  xy: 1699, 642
+  size: 232, 219
+  orig: 1920, 1080
+  offset: 843, 186
+  index: -1
+zhanGuiWanChengTeXiao_3
+  rotate: true
+  xy: 1699, 863
+  size: 270, 243
+  orig: 1920, 1080
+  offset: 823, 192
+  index: -1
+zhanGuiWanChengTeXiao_4
+  rotate: true
+  xy: 759, 48
+  size: 305, 268
+  orig: 1920, 1080
+  offset: 805, 200
+  index: -1
+zhanGuiWanChengTeXiao_5
+  rotate: false
+  xy: 725, 355
+  size: 333, 287
+  orig: 1920, 1080
+  offset: 790, 212
+  index: -1
+zhanGuiWanChengTeXiao_6
+  rotate: false
+  xy: 395, 20
+  size: 362, 307
+  orig: 1920, 1080
+  offset: 775, 223
+  index: -1
+zhanGuiWanChengTeXiao_7
+  rotate: false
+  xy: 2, 2
+  size: 391, 325
+  orig: 1920, 1080
+  offset: 760, 235
+  index: -1
+zhanGuiWanChengTeXiao_8
+  rotate: true
+  xy: 1510, 198
+  size: 419, 377
+  orig: 1920, 1080
+  offset: 746, 246
+  index: -1
+zhanGuiWanChengTeXiao_9
+  rotate: false
+  xy: 1060, 217
+  size: 448, 400
+  orig: 1920, 1080
+  offset: 731, 257
+  index: -1

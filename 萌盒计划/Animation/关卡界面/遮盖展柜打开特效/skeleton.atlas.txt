@@ -1,0 +1,129 @@
+
+skeleton.png
+size: 1705,1595
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zheGaiKaiQi_1
+  rotate: false
+  xy: 2, 1399
+  size: 212, 194
+  orig: 1920, 1080
+  offset: 854, 439
+  index: -1
+zheGaiKaiQi_10
+  rotate: false
+  xy: 670, 2
+  size: 719, 703
+  orig: 1920, 1080
+  offset: 627, 212
+  index: -1
+zheGaiKaiQi_2
+  rotate: false
+  xy: 216, 1358
+  size: 281, 235
+  orig: 1920, 1080
+  offset: 825, 416
+  index: -1
+zheGaiKaiQi_3
+  rotate: false
+  xy: 499, 1319
+  size: 343, 274
+  orig: 1920, 1080
+  offset: 796, 395
+  index: -1
+zheGaiKaiQi_4
+  rotate: false
+  xy: 844, 1283
+  size: 402, 310
+  orig: 1920, 1080
+  offset: 769, 375
+  index: -1
+zheGaiKaiQi_5
+  rotate: false
+  xy: 1248, 1253
+  size: 455, 340
+  orig: 1920, 1080
+  offset: 745, 359
+  index: -1
+zheGaiKaiQi_6
+  rotate: false
+  xy: 2, 948
+  size: 508, 369
+  orig: 1920, 1080
+  offset: 721, 343
+  index: -1
+zheGaiKaiQi_7
+  rotate: false
+  xy: 512, 882
+  size: 560, 399
+  orig: 1920, 1080
+  offset: 698, 327
+  index: -1
+zheGaiKaiQi_8
+  rotate: false
+  xy: 1074, 707
+  size: 612, 544
+  orig: 1920, 1080
+  offset: 675, 275
+  index: -1
+zheGaiKaiQi_9
+  rotate: false
+  xy: 2, 244
+  size: 666, 636
+  orig: 1920, 1080
+  offset: 651, 246
+  index: -1
+
+skeleton2.png
+size: 1975,1849
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zheGaiKaiQi_11
+  rotate: false
+  xy: 2, 1071
+  size: 865, 776
+  orig: 1920, 1080
+  offset: 510, 172
+  index: -1
+zheGaiKaiQi_12
+  rotate: false
+  xy: 869, 961
+  size: 1104, 886
+  orig: 1920, 1080
+  offset: 377, 96
+  index: -1
+zheGaiKaiQi_13
+  rotate: false
+  xy: 2, 2
+  size: 1186, 957
+  orig: 1920, 1080
+  offset: 328, 60
+  index: -1
+
+skeleton3.png
+size: 1358,1023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zheGaiKaiQi_15
+  rotate: false
+  xy: 2, 2
+  size: 1354, 1019
+  orig: 1920, 1080
+  offset: 225, 0
+  index: -1
+
+skeleton4.png
+size: 1273,1035
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zheGaiKaiQi_14
+  rotate: false
+  xy: 2, 2
+  size: 1269, 1031
+  orig: 1920, 1080
+  offset: 277, 22
+  index: -1

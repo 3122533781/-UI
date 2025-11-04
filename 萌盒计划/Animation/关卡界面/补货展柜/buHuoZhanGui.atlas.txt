@@ -1,0 +1,34 @@
+
+buHuoZhanGui.png
+size: 412,345
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fangZhiBan
+  rotate: true
+  xy: 327, 116
+  size: 227, 83
+  orig: 227, 83
+  offset: 0, 0
+  index: -1
+guangXiao
+  rotate: false
+  xy: 2, 2
+  size: 323, 341
+  orig: 323, 344
+  offset: 0, 3
+  index: -1
+lunZiYou
+  rotate: false
+  xy: 327, 10
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+lunZiZuo
+  rotate: false
+  xy: 327, 63
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1

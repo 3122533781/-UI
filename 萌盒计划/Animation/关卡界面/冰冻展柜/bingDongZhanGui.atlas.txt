@@ -1,0 +1,20 @@
+
+bingDongZhanGui.png
+size: 368,145
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bingDong_1
+  rotate: true
+  xy: 274, 33
+  size: 110, 92
+  orig: 110, 92
+  offset: 0, 0
+  index: -1
+bingDong_2
+  rotate: false
+  xy: 2, 2
+  size: 270, 141
+  orig: 270, 141
+  offset: 0, 0
+  index: -1
