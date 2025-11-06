@@ -1,17 +1,17 @@
 
-zheGaiZhanGai_blue.png
+zheGaiZhanGai_green.png
 size: 682,267
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-ball_4_02
+zheGaiZhanGai_green
   rotate: true
   xy: 461, 2
   size: 263, 219
   orig: 263, 219
   offset: 0, 0
   index: -1
-ball_4_12
+zheGaiZhanGui_green
   rotate: true
   xy: 2, 13
   size: 252, 457
