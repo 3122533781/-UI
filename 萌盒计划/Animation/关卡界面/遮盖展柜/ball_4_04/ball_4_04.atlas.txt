@@ -1,0 +1,20 @@
+
+zheGaiZhanGai_pink.png
+size: 682,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball_4_04
+  rotate: true
+  xy: 461, 2
+  size: 263, 219
+  orig: 263, 219
+  offset: 0, 0
+  index: -1
+ball_4_14
+  rotate: true
+  xy: 2, 13
+  size: 252, 457
+  orig: 252, 457
+  offset: 0, 0
+  index: -1
