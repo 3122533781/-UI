@@ -1,193 +1,158 @@
 
 skeleton.png
-size: 2048,2048
+size: 1712,1785
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-GuoDuGui_03_0
+ChuanSongGui_03_0
   rotate: true
-  xy: 2, 1679
+  xy: 2, 1473
   size: 310, 799
-  orig: 512, 1024
-  offset: 101, 113
+  orig: 1320, 2868
+  offset: 505, 1035
   index: -1
-GuoDuGui_03_1
+ChuanSongGui_03_10
   rotate: true
-  xy: 823, 1363
-  size: 313, 805
-  orig: 512, 1024
-  offset: 96, 110
+  xy: 2, 38
+  size: 362, 811
+  orig: 1320, 2868
+  offset: 463, 1029
   index: -1
-GuoDuGui_03_12
+ChuanSongGui_03_11
   rotate: true
-  xy: 2, 392
-  size: 329, 811
-  orig: 512, 1024
-  offset: 92, 107
+  xy: 2, 1110
+  size: 341, 852
+  orig: 1320, 2868
+  offset: 478, 1010
   index: -1
-GuoDuGui_03_16
-  rotate: false
-  xy: 1664, 365
-  size: 325, 817
-  orig: 512, 1024
-  offset: 99, 104
-  index: -1
-GuoDuGui_03_17
+ChuanSongGui_03_12
   rotate: true
-  xy: 815, 205
-  size: 326, 841
-  orig: 512, 1024
-  offset: 77, 93
+  xy: 856, 1109
+  size: 342, 854
+  orig: 1320, 2868
+  offset: 500, 1009
   index: -1
-GuoDuGui_03_2
+ChuanSongGui_03_13
   rotate: true
-  xy: 2, 1364
-  size: 312, 819
-  orig: 512, 1024
-  offset: 87, 103
+  xy: 856, 1109
+  size: 342, 854
+  orig: 1320, 2868
+  offset: 500, 1009
   index: -1
-GuoDuGui_03_21
+ChuanSongGui_03_14
   rotate: true
-  xy: 815, 533
-  size: 324, 839
-  orig: 512, 1024
-  offset: 111, 94
+  xy: 803, 1453
+  size: 330, 817
+  orig: 1320, 2868
+  offset: 503, 1026
   index: -1
-GuoDuGui_03_22
+ChuanSongGui_03_2
   rotate: true
-  xy: 2, 1048
-  size: 313, 820
-  orig: 512, 1024
-  offset: 113, 103
+  xy: 815, 2
+  size: 392, 805
+  orig: 1320, 2868
+  offset: 500, 1032
   index: -1
-GuoDuGui_03_23
-  rotate: false
-  xy: 1630, 1184
-  size: 313, 805
-  orig: 512, 1024
-  offset: 103, 110
-  index: -1
-GuoDuGui_03_24
+ChuanSongGui_03_3
   rotate: true
-  xy: 803, 1678
-  size: 311, 799
-  orig: 512, 1024
-  offset: 101, 113
+  xy: 859, 759
+  size: 348, 838
+  orig: 1320, 2868
+  offset: 481, 1016
   index: -1
-GuoDuGui_03_3
+ChuanSongGui_03_4
   rotate: true
-  xy: 824, 859
-  size: 323, 838
-  orig: 512, 1024
-  offset: 77, 94
+  xy: 2, 762
+  size: 345, 855
+  orig: 1320, 2868
+  offset: 477, 1009
   index: -1
-GuoDuGui_03_8
+ChuanSongGui_03_5
   rotate: true
-  xy: 2, 723
-  size: 323, 811
-  orig: 512, 1024
-  offset: 90, 108
+  xy: 2, 402
+  size: 355, 860
+  orig: 1320, 2868
+  offset: 488, 1008
+  index: -1
+ChuanSongGui_03_6
+  rotate: true
+  xy: 864, 396
+  size: 361, 839
+  orig: 1320, 2868
+  offset: 477, 1018
   index: -1
 
 skeleton2.png
-size: 2048,2048
+size: 1689,1832
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-GuoDuGui_03_11
-  rotate: true
-  xy: 2, 1063
-  size: 342, 854
-  orig: 512, 1024
-  offset: 96, 87
+ChuanSongGui_03_15
+  rotate: false
+  xy: 1278, 487
+  size: 409, 861
+  orig: 1320, 2868
+  offset: 477, 1007
   index: -1
-GuoDuGui_03_13
-  rotate: true
-  xy: 843, 1407
-  size: 341, 852
-  orig: 512, 1024
-  offset: 74, 88
+ChuanSongGui_03_16
+  rotate: false
+  xy: 2, 966
+  size: 458, 864
+  orig: 1320, 2868
+  offset: 483, 1005
   index: -1
-GuoDuGui_03_15
+ChuanSongGui_03_17
   rotate: true
-  xy: 858, 1063
-  size: 342, 854
-  orig: 512, 1024
-  offset: 96, 87
+  xy: 2, 483
+  size: 481, 839
+  orig: 1320, 2868
+  offset: 515, 1016
   index: -1
-GuoDuGui_03_18
+ChuanSongGui_03_18
   rotate: true
-  xy: 860, 362
-  size: 352, 861
-  orig: 512, 1024
-  offset: 73, 85
+  xy: 462, 1350
+  size: 480, 820
+  orig: 1320, 2868
+  offset: 517, 1025
   index: -1
-GuoDuGui_03_20
+ChuanSongGui_03_19
   rotate: true
-  xy: 2, 368
-  size: 346, 856
-  orig: 512, 1024
-  offset: 93, 86
+  xy: 843, 2
+  size: 480, 820
+  orig: 1320, 2868
+  offset: 517, 1025
   index: -1
-GuoDuGui_03_4
+ChuanSongGui_03_7
   rotate: true
-  xy: 855, 716
-  size: 345, 855
-  orig: 512, 1024
-  offset: 73, 87
+  xy: 2, 56
+  size: 425, 839
+  orig: 1320, 2868
+  offset: 413, 1018
   index: -1
-GuoDuGui_03_5
-  rotate: true
-  xy: 864, 2
-  size: 358, 864
-  orig: 512, 1024
-  offset: 75, 83
-  index: -1
-GuoDuGui_03_6
-  rotate: true
-  xy: 2, 5
-  size: 355, 860
-  orig: 512, 1024
-  offset: 84, 86
-  index: -1
-GuoDuGui_03_7
-  rotate: true
-  xy: 2, 1421
-  size: 327, 839
-  orig: 512, 1024
-  offset: 107, 96
-  index: -1
-GuoDuGui_03_9
-  rotate: true
-  xy: 2, 718
-  size: 343, 851
-  orig: 512, 1024
-  offset: 74, 90
+ChuanSongGui_03_9
+  rotate: false
+  xy: 843, 484
+  size: 433, 864
+  orig: 1320, 2868
+  offset: 407, 1005
   index: -1
 
 skeleton3.png
-size: 2048,2048
+size: 926,855
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-GuoDuGui_03_10
+ChuanSongGui_03_1
   rotate: false
-  xy: 2, 868
-  size: 361, 864
-  orig: 512, 1024
-  offset: 75, 83
+  xy: 475, 54
+  size: 449, 799
+  orig: 1320, 2868
+  offset: 505, 1035
   index: -1
-GuoDuGui_03_14
+ChuanSongGui_03_8
   rotate: false
   xy: 2, 2
-  size: 361, 864
-  orig: 512, 1024
-  offset: 76, 83
-  index: -1
-GuoDuGui_03_19
-  rotate: false
-  xy: 365, 868
-  size: 358, 864
-  orig: 512, 1024
-  offset: 79, 83
+  size: 471, 851
+  orig: 1320, 2868
+  offset: 350, 1012
   index: -1
