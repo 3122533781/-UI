@@ -1,0 +1,62 @@
+
+N_03.png
+size: 948,363
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_01
+  rotate: false
+  xy: 2, 2
+  size: 458, 359
+  orig: 466, 448
+  offset: 2, 89
+  index: -1
+body_02
+  rotate: false
+  xy: 462, 87
+  size: 484, 274
+  orig: 486, 300
+  offset: 0, 1
+  index: -1
+eyes
+  rotate: false
+  xy: 462, 3
+  size: 191, 82
+  orig: 194, 82
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 684, 16
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+mouth_2
+  rotate: false
+  xy: 710, 55
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+mouth_3
+  rotate: false
+  xy: 710, 71
+  size: 42, 14
+  orig: 42, 14
+  offset: 0, 0
+  index: -1
+mouth_4
+  rotate: false
+  xy: 655, 4
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+mouth_5
+  rotate: false
+  xy: 655, 38
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+R_02.png
+size: 736,480
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_01
+  rotate: false
+  xy: 2, 120
+  size: 456, 358
+  orig: 457, 449
+  offset: 0, 89
+  index: -1
+body_02
+  rotate: true
+  xy: 460, 2
+  size: 476, 274
+  orig: 476, 299
+  offset: 0, 1
+  index: -1
+eyes
+  rotate: false
+  xy: 2, 44
+  size: 189, 74
+  orig: 189, 74
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 2, 4
+  size: 38, 47
+  orig: 40, 47
+  offset: 1, 0
+  index: -1
+mouth_2
+  rotate: true
+  xy: 129, 25
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+mouth_3
+  rotate: false
+  xy: 85, 28
+  size: 42, 14
+  orig: 42, 14
+  offset: 0, 0
+  index: -1
+mouth_4
+  rotate: true
+  xy: 51, 15
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+mouth_5
+  rotate: false
+  xy: 193, 15
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+ps_01
+  rotate: false
+  xy: 193, 64
+  size: 257, 54
+  orig: 257, 54
+  offset: 0, 0
+  index: -1

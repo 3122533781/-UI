@@ -1,0 +1,83 @@
+
+SR_01.png
+size: 1069,366
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_01
+  rotate: false
+  xy: 2, 2
+  size: 443, 362
+  orig: 443, 453
+  offset: 0, 91
+  index: -1
+body_02
+  rotate: false
+  xy: 447, 146
+  size: 461, 218
+  orig: 462, 302
+  offset: 0, 1
+  index: -1
+eyes
+  rotate: false
+  xy: 743, 76
+  size: 163, 68
+  orig: 163, 68
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 978, 19
+  size: 22, 9
+  orig: 22, 11
+  offset: 0, 2
+  index: -1
+mouth_2
+  rotate: true
+  xy: 962, 24
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+mouth_3
+  rotate: true
+  xy: 996, 28
+  size: 42, 14
+  orig: 42, 14
+  offset: 0, 0
+  index: -1
+mouth_4
+  rotate: true
+  xy: 962, 43
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+mouth_5
+  rotate: false
+  xy: 907, 23
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+ps_01
+  rotate: true
+  xy: 743, 21
+  size: 53, 162
+  orig: 54, 162
+  offset: 0, 0
+  index: -1
+ps_02
+  rotate: true
+  xy: 447, 6
+  size: 138, 294
+  orig: 138, 294
+  offset: 0, 0
+  index: -1
+ps_03
+  rotate: false
+  xy: 910, 72
+  size: 157, 292
+  orig: 157, 292
+  offset: 0, 0
+  index: -1
